@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head>
+<meta charset="utf-8" />
+<link rel="shortlink" href="/node/97" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/sigmod_industry_list" />
+<title>SIGMOD 2019: Accepted Industrial Papers | SIGMOD/PODS 2019</title>
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_Vn_p7xhZmS8yWWx26P0Cc7Tm0GG2K1gLWEoVrhw5xxg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_bVQuO11O__rBW1kAInzl3NxQUx7huZU_6kwE-OEktwY.css" media="all" />
+<script type="text/javascript" src="http://www.sigmod2019.org/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="http://www.sigmod2019.org/sites/default/files/js/js_UwO_0RHLq_nsvPwmX_QYU1JLTYOeZOvu0d7mUDYvhvQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"business","theme_token":"id-qRKhSa7tB6QJ6gkfiSwTrjofmXXla3IyTSqoFWdk","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/business\/js\/superfish.js":1,"sites\/all\/themes\/business\/js\/supersubs.js":1,"sites\/all\/themes\/business\/js\/sfmenu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/business\/style.css":1,"sites\/all\/themes\/business\/color\/colors.css":1}}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="/sites/all/themes/business/js/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-97 node-type-page">
+<div id="wrap">
+<header id="header" class="clearfix" role="banner">
+<div>
+<div id="logo">
+<a href="/" title="Home"><img src="http://www.sigmod2019.org/sites/default/files/image_preview5.png" alt="Home" /></a>
+</div>
+<hgroup id="sitename">
+<h2><a href="/" title="Home"></a></h2>
+<p></p>
+</hgroup>
+</div>
+<nav id="navigation" class="clearfix" role="navigation">
+<div id="main-menu">
+<ul class="menu"><li class="first leaf"><a href="/">Home</a></li>
+<li class="leaf"><a href="/grants">SIGMOD 2019 Travel Award</a></li>
+<li class="leaf"><a href="/sigmodcfp">SIGMOD Call For Papers</a></li>
+<li class="leaf"><a href="/podscfp">PODS Call For Papers</a></li>
+<li class="last leaf"><a href="/industrycfp">SIGMOD Industrial Track Call for Papers</a></li>
+</ul> </div>
+</nav>
+</header>
+<div class="region region-header">
+<div id="block-block-3" class="block block-block">
+<div class="content">
+<img src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/photo.jpg" title="picture Creative Commons BY-NC-SA 2.0 licensed, (c) Mike ‘O Sullivan." width="100%" /> </div>
+</div> 
+<div id="block-block-4" class="block block-block">
+<div class="content">
+<div style="text-align:center;color: #485b81;font-weight: bold;"><span style="white-space:nowrap;">ACM SIGMOD/PODS International Conference on Management of Data</span> <span style="margin-left:3em;margin-right:3em;white-space:nowrap;">June 30 - July 5, 2019</span> <span style="white-space:nowrap;">Amsterdam, The Netherlands</span></div> </div>
+</div> 
+</div>
+
+<div id="main">
+<section id="post-content" role="main">
+<h1 class="page-title">SIGMOD 2019: Accepted Industrial Papers</h1> <div class="region region-content">
+<div id="block-system-main" class="block block-system">
+<div class="content">
+<span property="dc:title" content="SIGMOD 2019: Accepted Industrial Papers" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+<div class="node node-page node-full">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div id="maincontent">
+<ul><li><strong>Automatically Indexing Millions of Databases in Microsoft Azure SQL Database</strong><br />
+Sudipto Das (Microsoft Research); Miroslav Grbic (Microsoft); Igor Ilic (Microsoft); Isidora Jovandic (Microsoft); Andrija Jovanovic (Microsoft); Vivek Narasayya (Microsoft Research); Miodrag Radulovic (Microsoft); Maja Stikic (Microsoft); Gaoxiang Xu (Microsoft); Surajit Chaudhuri (Microsoft Research)</li>
+<p></p>
+<li><strong>Snorkel DryBell: A Case Study in Deploying Weak Supervision at Industrial Scale	</strong><br />
+Stephen H Bach (Brown University); Daniel Rodriguez (Google); Yintao Liu (Google); Chong Luo (Google); Haidong Shao (Google); Cassandra Xia (Google); Souvik Sen (Google); Alexander J Ratner (Stanford University); Braden Hancock (Stanford University); Houman Alborzi (Google); Rahul Kuchhal (Google); Christopher Re (Stanford University); Rob Malkin (Google)</li>
+<p></p>
+<li><strong>QuickInsights: Quick and Automatic Discovery of Insights from Multi-Dimensional Data</strong><br />
+Rui Ding (Microsoft Research); Shi Han (Microsoft Research); Yong Xu (Microsoft Research ); Haidong Zhang (Microsoft Research); Dongmei Zhang (Microsoft Research)</li>
+<p></p>
+<li><strong>PS2: Parameter Server on Spark	</strong><br />
+Zhipeng Zhang (Peking University); Bin Cui (Peking University); Yingxia Shao (BUPT); Lele Yu (Tencent Inc.); Jiawei Jiang (Tencent); Xupeng Miao (Peking University)</li>
+<p></p>
+<li><strong>FoundationDB Record Layer: A Multi-Tenant Structured Datastore	</strong><br />
+Christos Chrysafis (Apple); Ben Collins (Apple); Scott Dugas (Apple); Jay Dunkelberger (Apple); Moussa Ehsan (Apple); Scott Gray (Apple); Alec Grieser (Apple); Ori Herrnstadt (Apple); Kfir Lev-Ari (Apple); Tao Lin (Apple); Mike McMahon (Apple); Nicholas Schiefer (Apple); Alexander Shraer (Apple)</li>
+<p></p>
+<li><strong>One SQL to Rule Them All - an Efficient and Syntactically Idiomatic Approach to Management of Streams and Tables	</strong><br />
+Edmon Begoli (Oak Ridge National Laboratory / Apache Calcite); Tyler Akidau (Google Inc. / Apache Beam); Fabian Hueske (Ververica / Apache Calcite); Julian Hyde (Looker Inc. / Apache Calcite); Kathryn Knight (Oak Ridge National Laboratory ); Kenneth Knowles (Google Inc. / Apache Beam)</li>
+<p></p>
+<li><strong>X-Engine: An Optimized Storage Engine for Large-scale E-Commerce Transaction Processing	</strong><br />
+Gui Huang (Alibaba Group); Xuntao Cheng (Alibaba Group); Jianying Wang (Alibaba Group); Yujie Wang (Alibaba Group); Dengcheng He (Alibaba Group); Tieying Zhang (Alibaba Group); Feifei Li (Alibaba Group); Sheng Wang (Alibaba Group); Wei Cao (Alibaba Group); Qiang Li (Alibaba Group)</li>
+<p></p>
+<li><strong>Entity Matching Meets Data Science: A Progress Report from the Magellan Project	</strong><br />
+Yash Govind (University of Wisconsin - Madison); Pradap Konda (UW-Madison); Paul Suganthan G C (Google); Philip Martinkus (University of Wisconsin - Madison); Palaniappan Nagarajan (University of Wisconsin - Madison); Aravind Soundararajan (University of Wisconsin - Madison); Han Li (UW-Madison); Sidharth Mudgal (University of Wisconsin-Madison); Jeff Ballard (University of Wisconsin - Madison); HAOJUN ZHANG (UW-Madison); Adel Ardalan (University of Wisconsin-Madison); Sanjib Das (University of Wisconsin - Madison); Derek Paulsen (University of Wisconsin-Madison); Amanpreet Singh Saini (University of Wisconsin-Madison); Erik Paulson (University of Wisconsin - Madison); Youngchoon Park (Johnson Controls); Marshall Carter (American Family Insurance); Mingju Sun (American Family Insurance); Glenn M Fung (American Family Insurance); AnHai Doan (UW-Madison)</li>
+<p></p>
+<li><strong>Automatically Generating Interesting Facts from Wikipedia Tables	</strong><br />
+Flip Korn (Google, USA); Xuezhi Wang (Google); You Wu (Google); Cong Yu (Google)</li>
+<p></p>
+<li><strong>Nanosecond Indexing of Graph Data With Hash Maps and VLists	</strong><br />
+Andrew Carter (Linkedin); Scott Meyer (Linkedin); Andrew Rodriguez (Linkedin); Yiming Yang (Linkedin)</li>
+<p></p>
+<li><strong>Apache Hive: From MapReduce to Enterprise-grade Big Data Warehousing</strong><br />
+Jesús Camacho-Rodríguez (Hortonworks Inc.); Ashutosh Chauhan (Hortonworks Inc.); Alan Gates (Hortonworks); Eugene Koifman (Hortonworks); Owen O'Malley (Hortonworks); Vineet Garg (Hortonworks Inc.); Zoltan Haindrich (Hortonworks Inc.); Sergey Shelukhin (Hortonworks Inc.); Prasanth Jayachandran (Hortonworks Inc.); Siddharth Seth (Hortonworks Inc.); Deepak Jaiswal (Hortonworks Inc.); Slim Bouguerra (Hortonworks Inc.); Nishant Bangarwa (Hortonworks Inc.); Sankar Hariappan (Hortonworks Inc.); Anishek Agarwal (Hortonworks Inc.); Jason Dere (Hortonworks Inc.); Daniel Dai (Hortonworks Inc.); Thejas Nair (Hortonworks Inc.); Nita Dembla (Hortonworks Inc.); Gopal Vijayaraghavan (Hortonworks); Günther Hagleitner (Hortonworks Inc.)</li>
+<p></p>
+<li><strong>CFS: A Distributed File System for Large Scale Container Platforms</strong><br />
+Haifeng Liu (JD.com &amp; University of Science and Technology of China), Wei Ding (JD.com Silicon Valley R&amp;D Center), Yuan Chen (JD.com Silicon Valley R&amp;D Center), Weilong Guo (JD.com), Shuoran Liu (JD.com), Tianpeng Li (JD.com), Mofei Zhang (JD.com), Jianxing Zhao (JD.com), Hongyin Zhu (JD.com), Zhengyi Zhu (JD.com)</li>
+<p></p>
+<li><strong>Socrates: The New SQL Server in the Cloud</strong><br />
+Panagiotis Antonopoulos (Microsoft); Alex Budovski (Microsoft); Cristian Diaconu (Microsoft); Alejandro Hernandez (Microsoft); Jack Hu (Microsoft); Hanuma Kodavalla (Microsoft); Donald Kossmann (Microsoft Research); Umar Farooq Minhas (Microsoft Research); Naveen Prakash (Microsoft); Vijendra Purohit (Microsoft); Hugh Qu (Microsoft); Chaitanya Sreenivas Ravella (Microsoft); Krystyna Reisteter (Microsoft); Sheetal Shrotri (Microsoft); Dixin Tang (University of Chicago); Vikram Wakade (Microsoft)</li>
+<p></p>
+<li><strong>ExplainIt! -- A declarative root-cause analysis engine for time series data	</strong><br />
+Vimalkumar Jeyakumar (Cisco Tetration Analytics); Omid Madani (Cisco Tetration Analytics); Ali Parandehgheibi (Cisco Tetration Analytics); Ashutosh Kulshreshtha (Cisco Tetration Analytics); Weifei Zeng (Cisco Tetration Analytics); Navindra Yadav (Cisco Tetration Analytics)</li>
+<p></p>
+<li><strong>Implementation of Cluster-wide Logical Clock and Causal Consistency in MongoDB</strong><br />
+Misha Tyulenev (MongoDB, Inc); Andy Schwerin (MongoDB, Inc); Asya Kamsky (MongoDB, Inc); Randolph Tan (MongoDB, Inc); Alyson Cabral (MongoDB, Inc); Jack Mulrow (MongoDB, Inc)</li>
+<p></p>
+<li><strong>Data Platform for Machine Learning</strong><br />
+Ming-Chuan Wu (Apple); Rajat Arya (Apple); Sandeep Bhatia (Apple); Kaiyu Zhao (Apple); Pulkit Agrawal (Apple); Aanchal Bindal (Apple); Anupriya Gagneja (Apple); Joseph Godlewski (Apple); Yucheng Low (Apple); Tim Muss (Apple); Mudit Manu Paliwal (Apple); Sethu Raman (Apple); Vishrut Shah (Apple); Bochao Shen (Apple); Laura Sugden (Apple)</li>
+</ul></div>
+</div></div></div> </div>
+<footer>
+</footer>
+</div>
+</div> 
+</div>
+
+</section> 
+<aside id="sidebar" role="complementary" class="sidebar clearfix">
+<div class="region region-sidebar-first">
+<div id="block-menu-menu-welcome" class="block block-menu">
+<h2>General</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/" title="">Homepage</a></li>
+<li class="leaf"><a href="/prog_overview" title="">Program Overview</a></li>
+<li class="last leaf"><a href="https://confer.csail.mit.edu/sigmod2019/schedule#MondayBreakfast" title="">Detailed Program</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-calls-for-submissions" class="block block-menu">
+<h2>PODS Program</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/pods_research_papers" title="">Research Papers</a></li>
+<li class="last leaf"><a href="/sigmod_keynote" title="">Keynote Talk</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-sigmod-program" class="block block-menu">
+<h2>SIGMOD Program</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/sigmod_research_papers_list" title="">Research Papers</a></li>
+<li class="leaf"><a href="/sigmod_keynote" title="">Keynote Talks</a></li>
+<li class="leaf"><a href="/sigmod_demo_papers" title="">Demo Papers</a></li>
+<li class="leaf"><a href="/sigmod_tutorials" title="">Tutorials</a></li>
+<li class="leaf active-trail"><a href="/sigmod_industry_list" title="" class="active-trail active">Industrial Papers</a></li>
+<li class="leaf"><a href="/awards" title="">Awards</a></li>
+<li class="last leaf"><a href="/social_events" title="">Social Events</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-participant-information" class="block block-menu">
+<h2>Participant Information</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="https://www.regonline.com/acmsigmodpods2019" title="">Registration</a></li>
+<li class="leaf"><a href="/conf_venue" title="">Conference Venue</a></li>
+<li class="leaf"><a href="/live_streams" title="">Live Streams</a></li>
+<li class="leaf"><a href="/accommodation" title="">Accommodation</a></li>
+<li class="leaf"><a href="/grants" title="">Student Travel Award</a></li>
+<li class="last leaf"><a href="/node/105" title="">Visa Information</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-organization" class="block block-menu">
+<h2>Organization</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/officers" title="Conference Officers">Conference Officers</a></li>
+<li class="leaf"><a href="/sigmodpc" title="Organization: SIGMOD PC">SIGMOD PC</a></li>
+<li class="leaf"><a href="/podscom" title="">PODS PC</a></li>
+<li class="leaf"><a href="/demo_pc" title="">SIGMOD Demo PC</a></li>
+<li class="leaf"><a href="/industrypc" title="">SIGMOD Industry PC</a></li>
+<li class="leaf"><a href="/sponsor_opportunities" title="">Sponsor Opportunities</a></li>
+<li class="last leaf"><a href="/policy" title="">Anti-Discrimination Policy</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-events" class="block block-menu">
+<h2>Special and Co-located Events</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/aff_wshops" title="">Affiliated Workshops</a></li>
+<li class="leaf"><a href="/student_rs_competition" title="">SIGMOD Student Research Competition</a></li>
+<li class="leaf"><a href="/new_researchers_symp" title="">New Researcher Symposium</a></li>
+<li class="leaf"><a href="http://sigmod19contest.itu.dk" title="">Programming Contest</a></li>
+<li class="leaf"><a href="/Kolaitis_Event" title="">Phokion Kolaitis Special Event</a></li>
+<li class="leaf"><a href="https://amsterdamdatascience.nl/event/ads-drinks-data-ads-meets-sigmod/" title="An event with three talks by data management expert, opened and closed with drinks+snacks, in which the local ADS data science community can mingle with the SIGMOD crowd. Sponsored by ADS partner Elsevier.">Amsterdam Data Science (ADS) Event </a></li>
+<li class="last leaf"><a href="http://ldbcouncil.org/12th-tuc-meeting-sigmod-2019-amsterdam-july-5-2019" title="The Linked Data Benchmark Council (LDBC - ldbcouncil.org)  is a non-profit organization overseeing industry and academic collaboration in graph data management software. Its core mission is the establishment of benchmarks, such as the LDBC Social Network Benchmark and Graphalytics, but recently LDBC is also involved in efforts to create a common Property Graph schema model and query language. These Technical User Community (TUC) meetings allow graph practitioners to present challenges in graph data management, and provide feedback on the work of LDBC task forces, who also present recent updates in these meetings. Attendence is open and free, but registration is required (see link).">LDBC TUC Meeting</a></li>
+</ul> </div>
+</div> 
+<div id="block-block-5" class="block block-block">
+<div class="content">
+
+<p><a class="twitter-timeline" data-height="600" href="https://twitter.com/SIGMOD2019?ref_src=twsrc%5Etfw">Tweets by SIGMOD2019</a> </p>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div>
+</div> 
+</div>
+
+</aside> 
+</div>
+<div class="clear"></div>
+
+<div class="region region-footer">
+<div id="block-block-1" class="block block-block">
+<div class="content">
+<div id="footer">
+<table width="920" border="0"><tbody><tr><td style="display:inline-block; width:300px;"> </td>
+<td style="display:inline-block; width:120px;">
+<a href="http://www.sigmod.org/" target="_blank" style="background-image: none; border: none;"><br /><img src="https://sigmod2018.org/images/acm.jpg" alt="ACM SIGMOD" height="30px" longdesc="The SIGMOD/PODS conference is organized and sponsored by ACM SIGMOD." /></a>
+</td>
+<td style="display:inline-block; width:181px;"><a href="http://www.acm.org"><img src="sites/default/files/imported/images/acm.png" alt="ACM" width="160" height="56" longdesc="http://www.acm.org" /></a></td>
+<td style="display:inline-block; width:105px;">
+<a href="http://www.cwi.nl/" target="_blank" style="background-image: none; border: none;"><br /><img src="sites/default/files/cwi-logo.png" alt="CWI" height="45px" longdesc="CWI handles local conference organization." /></a>
+</td>
+<td style="display:inline-block; width:100px;"><a href="http://sigai.acm.org"><img src="http://sigai.acm.org/static/logo.svg" alt="ACM" width="79" height="56" longdesc="http://sigai.acm.org" /></a></td>
+<td style="display:inline-block; width:80px;"><a href="https://www.sigact.org"><img src="https://www.sigact.org/img/logo-lean.svg" alt="ACM" width="80" height="56" longdesc="https://www.sigact.org" /></a></td>
+</tr></tbody></table></div>
+ </div>
+</div> 
+</div>
+
+</div>
+</body>
+</html>

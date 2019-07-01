@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head>
+<meta charset="utf-8" />
+<link rel="shortlink" href="/node/14" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/awards" />
+<title>Awards | SIGMOD/PODS 2019</title>
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_Vn_p7xhZmS8yWWx26P0Cc7Tm0GG2K1gLWEoVrhw5xxg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_bVQuO11O__rBW1kAInzl3NxQUx7huZU_6kwE-OEktwY.css" media="all" />
+<script type="text/javascript" src="http://www.sigmod2019.org/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="http://www.sigmod2019.org/sites/default/files/js/js_UwO_0RHLq_nsvPwmX_QYU1JLTYOeZOvu0d7mUDYvhvQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"business","theme_token":"S6qXimEGeJ0ayCHpIBn-ImU3Eg8HVKzcp0xrih4-f9w","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/business\/js\/superfish.js":1,"sites\/all\/themes\/business\/js\/supersubs.js":1,"sites\/all\/themes\/business\/js\/sfmenu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/business\/style.css":1,"sites\/all\/themes\/business\/color\/colors.css":1}}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="/sites/all/themes/business/js/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-14 node-type-page">
+<div id="wrap">
+<header id="header" class="clearfix" role="banner">
+<div>
+<div id="logo">
+<a href="/" title="Home"><img src="http://www.sigmod2019.org/sites/default/files/image_preview5.png" alt="Home" /></a>
+</div>
+<hgroup id="sitename">
+<h2><a href="/" title="Home"></a></h2>
+<p></p>
+</hgroup>
+</div>
+<nav id="navigation" class="clearfix" role="navigation">
+<div id="main-menu">
+<ul class="menu"><li class="first leaf"><a href="/">Home</a></li>
+<li class="leaf"><a href="/grants">SIGMOD 2019 Travel Award</a></li>
+<li class="leaf"><a href="/sigmodcfp">SIGMOD Call For Papers</a></li>
+<li class="leaf"><a href="/podscfp">PODS Call For Papers</a></li>
+<li class="last leaf"><a href="/industrycfp">SIGMOD Industrial Track Call for Papers</a></li>
+</ul> </div>
+</nav>
+</header>
+<div class="region region-header">
+<div id="block-block-3" class="block block-block">
+<div class="content">
+<img src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/photo.jpg" title="picture Creative Commons BY-NC-SA 2.0 licensed, (c) Mike ‘O Sullivan." width="100%" /> </div>
+</div> 
+<div id="block-block-4" class="block block-block">
+<div class="content">
+<div style="text-align:center;color: #485b81;font-weight: bold;"><span style="white-space:nowrap;">ACM SIGMOD/PODS International Conference on Management of Data</span> <span style="margin-left:3em;margin-right:3em;white-space:nowrap;">June 30 - July 5, 2019</span> <span style="white-space:nowrap;">Amsterdam, The Netherlands</span></div> </div>
+</div> 
+</div>
+
+<div id="main">
+<section id="post-content" role="main">
+<h1 class="page-title">Awards</h1> <div class="region region-content">
+<div id="block-system-main" class="block block-system">
+<div class="content">
+<span property="dc:title" content="Awards" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+<div class="node node-page node-full">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">
+<h2 style="clear:both; padding-top:2em;">SIGMOD E.F. Codd Innovation Award</h2><p>The awards committee selected <strong>Anastasia Ailamaki</strong> as the recipient of
+the 2019 ACM SIGMOD Edgar F. Codd Innovations Award <em>for her
+pioneering work on the architecture of database systems, its
+interaction with computer architecture, and scientific data
+management</em>.
+</p>
+<p><img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/ailamaki.jpg" />
+</p>
+<p><strong>Anastasia Ailamaki</strong> is a Professor of Computer and Communication
+Sciences at EPFL and the co-founder of RAW Labs SA, a Swiss company
+that develops a software engine for real-time analysis of
+heterogeneous big data. Previously, she was on the faculty of the
+Computer Science Department at CMU, where she held the Finmeccanica
+endowed chair. She has received the 2019 EDBT Test of Time award, the
+2018 Nemitsas Prize in Computer Science, an ERC Consolidator Award
+(2013), the European Young Investigator Award from the European
+Science Foundation (2007), an Alfred P. Sloan Research Fellowship
+(2005), and ten best-paper awards in database, storage, and computer
+architecture conferences. She is an ACM fellow, an IEEE fellow, and an
+elected member of the Swiss, the Belgian, and the Cypriot National
+Research Councils.
+</p>
+<h2 style="clear:both; padding-top:2em;">SIGMOD Contribution Award</h2><p>The committee reached an unanimous decision to grant the SIGMOD
+Contribution Award award to <strong>Ahmed Elmagarmid</strong>, especially for
+his dedicated service to the database community in North America and
+the Middle East, as the founder/editor of Distributed and Parallel
+Database Journal, and PC for ACM SIGMOD.
+</p>
+<p><strong>Bio:</strong>
+</p>
+<p><img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/elmagarmid.jpg" />
+</p>
+<p>Ahmed Elmagarmid is the founding executive director of the Qatar
+Computing Research Institute and is an Emeritus Professor of Computer
+Science at Purdue University. He served as Chief Scientist at Hewlett
+Packard and Chief of Data Quality at Bellcore. Dr. Elmagarmid is a
+recipient of the NSF Presidential Young Investigator (PYI) award from
+President Reagan in 1988. He is an IEEE Fellow, an ACM Fellow and an
+AAAS Fellow. The University of Dayton and Ohio State University have
+both named him among their distinguished alumni. His claim to fame is
+that he shared an office as graduate student with
+Prof. M.T.Ozsu.
+</p>
+<h2 style="clear:both; padding-top:2em;">SIGMOD Test of Time Award</h2><p><strong>Privacy integrated queries: an extensible platform for privacy-preserving data analysis</strong>
+</p>
+<p>Frank McSherry, ACM SIGMOD 2009
+</p>
+<p>The awards committee considers this paper a major scholastic contribution
+in the way we should handle one of the core challenges in data management. The paper
+has become a landmark reference for research on a privacy preservation in these modern
+times geared at automated data analysis with privacy implications.
+</p>
+<p><strong>Bio:</strong>
+</p>
+<p><img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/mcsherry.jpg" />
+</p>
+<p><strong>Frank McSherry</strong> is the Chief Scientist at Materialize, Inc., where
+he works on interactive and incremental data processing. Frank was
+previously at the Systems Group at ETH Zürich where he worked with
+students on timely and differential dataflow, and even further back at
+MSR Silicon Valley where he worked on the Naiad project and on
+Differential Privacy. Frank is perhaps best known for applying his
+undergraduate education to big data problems.
+</p>
+<div>
+<h2 style="clear:both; padding-top:2em;">Jim Gray Dissertation Award</h2>
+<img style="width:160px;float:right;" src="https://www.cc.gatech.edu/~jarulraj/images/joy.jpg" />
+<strong>Winner: Joy Arulraj</strong><p>
+</p>
+<p>Joy Arulraj is an assistant Professor of Computer Science at
+Georgia Institute of Technology. He received his Ph.D. from Carnegie
+Mellon University in 2018, advised by Andy Pavlo. His doctoral
+research focused on the design and implementation of non-volatile
+memory database management systems. This work was conducted in
+collaboration with the Intel Science and Technology Center for Big
+Data, Microsoft Research, and Samsung Research.
+</p>
+<p style="clear:both; padding-top:2em;"></p>
+<strong>Honorable mention: Bas Ketsman</strong><p>
+<img style="width:160px;float:right;" src="http://www.basketsman.com/assets/images/f6783c.jpg" />
+</p>
+<p>Bas Ketsman is a postdoctoral researcher at the Swiss Federal
+Institute of Technology in Lausanne (EPFL). In 2017 he obtained his
+PhD from Hasselt University in Belgium, advised by Frank Neven, where
+he was a PhD fellow of the Research Foundations - Flanders (FWO) and a
+member of the Databases and Theoretical Computer Science group. His
+research focuses on foundational aspects of large-scale data
+management and distributed computing. Bas' papers were selected for
+the ACM SIGMOD Research Highlight Award, listed in ACM best of
+Computing, and appeared as research Highlight in CACM. He also
+received the Distinguished Dissertation Award 2018 from the European
+Association for Theoretical Computer Science (EATCS) and best paper
+awards at ACM PODS 2014 and 2015.
+</p>
+</div>
+<h2 style="clear:both; padding-top:2em;">SIGMOD Best Paper Award</h2><p><strong>Interventional Fairness : Causal Database Repair for Algorithmic Fairness</strong>
+</p>
+<p>Babak Salimi, Luke Rodriguez, Bill Howe, Dan Suciu
+</p>
+<p><strong>Abstract:</strong>
+</p>
+<p>Fairness is increasingly recognized as a critical component of machine
+learning systems. However, it is the underlying data on which these
+systems are trained that often reflect discrimination, suggesting a
+database repair problem. Existing treatments of fairness rely on
+statistical correlations that can be fooled by statistical anomalies,
+such as Simpson's paradox. Proposals for causality-based definitions
+of fairness can correctly model some of these situations, but they
+require specification of the underlying causal models. In this paper,
+we formalize the situation as a database repair problem, proving
+sufficient conditions for fair classifiers in terms of admissible
+variables as opposed to a complete causal model. We show that these
+conditions correctly capture subtle fairness violations. We then use
+these conditions as the basis for database repair algorithms that
+provide provable fairness guarantees about classifiers trained on
+their training labels. We evaluate our algorithms on real data,
+demonstrating improvement over the state of the art on multiple
+fairness metrics proposed in the literature while retaining high
+utility.
+</p>
+<p><img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/salimi.jpg" />
+</p>
+<p><strong>Babak Salimi</strong> is a postdoctoral research associate at University of
+Washington, where he works with Professor Dan Suciu. He received his
+Ph.D. from Carleton University, where he worked with Professor
+Leopoldo Bertossi. His research interests cover data management,
+decision making systems, causal inference and algorithmic fairness.
+</p>
+<p><p style="clear:both;"></p>
+<img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/rodriguez.jpg" />
+</p>
+<p><strong>Luke Rodriguez</strong> is a PhD Student advised by Bill Howe in the
+Information School at the University of Washington whose research
+focuses on using tools from differential privacy and causal reasoning
+to support scientific collaboration and responsible data
+management. In particular, Luke seeks to investigate how we can go
+beyond accessibility and availability and make data more useful.
+</p>
+<p><p style="clear:both;"></p>
+<img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/howe.png" />
+</p>
+<p><strong>Bill Howe</strong> is Associate Professor in the Information School and
+Adjunct Associate Professor in the Allen School of Computer Science &amp;
+Engineering and the Department of Electrical Engineering. His research
+interests are in data management, curation, analytics, and
+visualization in the sciences. As Founding Associate Director of the
+UW eScience Institute, Howe played a leadership role in the Data
+Science Environment program at UW through a $32.8 million grant
+awarded jointly to UW, NYU, and UC Berkeley, and founded UW's Data
+Science for Social Good Program. With support from the MacArthur
+Foundation and Microsoft, Howe directs UW's participation in the
+Cascadia Urban Analytics Cooperative, where he focuses on responsible
+data science. He founded the UW Data Science Masters Degree, serving
+as its inaugural Program Chair, and created a first MOOC on data
+science that attracted over 200,000 students. His research has been
+featured in the Economist and Nature News, and he co-authored what
+have remained the most-cited papers from VLDB 2010 and SIGMOD 2012. He
+has received two Jim Gray Seed Grant awards from Microsoft Research
+and two ``Best of Conference'' invited papers from VLDB Journal. He
+has a Ph.D. in Computer Science from Portland State Univ. and a BSc
+degree in Industrial &amp; Systems Engineering from Georgia Tech.
+</p>
+<p><p style="clear:both;"></p>
+<img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/suciu.jpg" />
+</p>
+<p> <strong>Dan Suciu</strong> is a Professor in Computer Science at the Univ. of
+Washington. He received his Ph.D. from the Univ. of Pennsylvania in
+1995, was a principal member of the technical staff at AT&amp;T Labs and
+joined the Univ. of Washington in 2000. Suciu is conducting research
+in data management, with an emphasis on topics related to Big Data and
+data sharing, such as probabilistic data, data pricing, parallel data
+processing, data security. He is a co-author of two books Data on the
+Web: from Relations to Semistructured Data and XML, 1999, and
+Probabilistic Databases, 2011. He is a Fellow of the ACM, holds twelve
+US patents, received the best paper award in SIGMOD 2000 and ICDT
+2013, the ACM PODS Alberto Mendelzon Test of Time Award in 2010 and in
+2012, the 10 Year Most Influential Paper Award in ICDE 2013, the VLDB
+Ten Year Best Paper Award in 2014, and is a recipient of the NSF
+Career Award and of an Alfred P. Sloan Fellowship. Suciu serves on the
+VLDB Board of Trustees, and is an assoc. editor for the Journal of the
+ACM, VLDB Journal, ACM TWEB, and Information Systems and is a past
+associate editor for ACM TODS and ACM TOIS. Suciu's PhD students
+Gerome Miklau, Christopher Re and Paris Koutris received the ACM
+SIGMOD Best Dissertation Award in 2006, 2010, and 2016 respectively,
+and Nilesh Dalvi was a runner up in 2008.
+</p>
+<h2 style="clear:both; padding-top:2em;">SIGMOD Systems Award</h2><p>The SIGMOD Systems Award is awarded to an individual or set of
+individuals to recognize the development of a software or hardware
+system whose technical contributions have had significant impact on
+the theory or practice of large-scale data management systems. The
+SIGMOD Systems Award Committee determines the recipient(s) of the
+award. This year's award was given to the developers of the Aurora
+database system from Amazon AWS.
+</p>
+<p><em>The developers of the Aurora database system are the recipients of
+the 2019 SIGMOD Systems Award for fundamentally redesigning relational
+database storage for cloud environments.</em>
+</p>
+<p><strong>Award Recipients:</strong>
+</p>
+<ul><li>Xiaofeng Bao</li>
+<li>Charlie Bell</li>
+<li>Murali Brahmadesam</li>
+<li>James Corey</li>
+<li>Neal Fachan</li>
+<li>Raju Gulabani</li>
+<li>Anurag Gupta</li>
+<li>Kamal Gupta</li>
+<li>James Hamilton</li>
+<li>Andy Jassy</li>
+<li>Tengiz Kharatishvili</li>
+<li>Sailesh Krishnamurthy</li>
+<li>Yan Leshinsky</li>
+<li>Lon Lundgren</li>
+<li>Pradeep Madhavarapu</li>
+<li>Sandor Maurice</li>
+<li>Grant McAlister</li>
+<li>Sam McKelvie</li>
+<li>Raman Mittal</li>
+<li>Debanjan Saha</li>
+<li>Swami Sivasubramanian</li>
+<li>Stefano Stefani</li>
+<li>Alex Verbitski</li>
+</ul>
+<h1>PODS Awards</h1><h2 style="clear:both; padding-top:2em;">PODS Albert O. Mendelzon Test of Time Award</h2><p>The ACM PODS Alberto O. Mendelzon Test-of-Time Award is awarded every year to a paper or a small number of papers published in the PODS proceedings ten years prior that had the most impact in terms of research, methodology, or transfer to practice over the intervening decade. After careful consideration and having solicited external nominations and advice, we have selected the following paper as the award winner for 2019:
+</p>
+<p><strong>A General Datalog-Based Framework for Tractable Query Answering over Ontologies</strong>
+</p>
+<p>Andrea Cali, Georg Gottlob, Thomas Lukasiewicz, PODS 2009.
+</p>
+<p><strong>Abstract:</strong>
+</p>
+<p> Ontologies and rules play a central role in the development of the
+Semantic Web. Recent research in this context focuses especially on
+highly scalable formalisms for the Web of Data, which may highly
+benefit from exploiting database technologies. In this paper, as a
+first step towards closing the gap between the Semantic Web and
+databases, we introduce a family of expressive extensions of Datalog,
+called Datalog<sup>pm</sup>, as a new paradigm for query
+answering over ontologies. The Datalog<sup>pm</sup> family
+admits existentially quantified variables in rule heads, and has
+suitable restrictions to ensure highly efficient ontology querying. We
+show in particular that Datalog<sup>pm</sup> encompasses and
+generalizes the tractable description logic ɛL and the <em>DL-Lite</em>
+family of tractable description logics, which are the most common
+tractable ontology languages in the context of the Semantic Web and
+databases. We also show how stratified negation can be added to
+Datalog<sup>pm</sup> while keeping ontology querying tractable. Furthermore,
+the Datalog<sup>pm</sup> family is of interest in its own right, and can,
+moreover, be used in various contexts such as data integration and
+data exchange. It paves the way for applying results from databases to
+the context of the Semantic Web.
+</p>
+<p><strong>Citation from the Committee:</strong>
+</p>
+<p>This paper introduces and studies the Datalog+/- framework for query
+answering over ontologies, which subsequently became highly
+influential in both the database and knowledge representation
+communities. Its main contribution is an in-depth study of the data
+complexity of Datalog+/-, and several extensions and restrictions
+tailored to ontologies. The paper identifies a tractable family of
+Datalog+/- formalisms, based on linear tuple-generating dependencies,
+that generalizes description logics of the DL-Lite family. Extensions
+with keys and stratified negation are also studied. Other technical
+results of the paper concerning the chase have been fundamental to
+further developments in the field. The paper received over 450
+citations, evidencing its significant impact.
+</p>
+<p><p style="clear:both;"></p>
+<img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/cali.jpg" />
+</p>
+<p><strong>Andrea Cali</strong> is a Senior Lecturer at the Department of Computer Science and
+Information System, Birkbeck University of London. He also holds
+positions as Research Scientist at RelationalAI Inc., as well as
+Associate Member at the Oxford-Man Institute of Quantitative Finance,
+University of Oxford. His research interests include database theory,
+Deep Web, Semantic Web, Machine Learning and Information
+Integration. He is currently undergoing new research directions in the
+area of cryptocurrencies.
+</p>
+<p><p style="clear:both;"></p>
+<img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/gottlob.jpg" />
+</p>
+<p><strong>Georg Gottlob</strong> is Professor of Informatics at Oxford and at TU
+Wien. His interests include database theory, AI, knowledge
+representation, logic and complexity, problem decompositions, and, on
+the more applied side, web data extraction, and practical database
+query processing. Gottlob has received the Wittgenstein Award
+(Austria) and the Ada Lovelace Medal (UK)., He is an ACM Fellow, an
+ECCAI Fellow, a Fellow of the Royal Society, and a member of the
+Austrian and the German academies of of Sciences, and the Academia
+Europaea. He chaired the Program Committees of IJCAI 2003 and ACM
+PODS 2000. He was the main founder of Lixto, a web data extraction
+software company, which was acquired by McKinsey in 2013. Gottlob was
+awarded an ERC Advanced Investigator's Grant for the project "DIADEM:
+Domain-centric Intelligent Automated Data Extraction
+Methodology". Based on results of this project, he co-founded
+Wrapidity Ltd, a company that specialises in fully automated web data
+extraction that was recently acquired by the Meltwater Media
+Intelligence corporation.
+</p>
+<p><p style="clear:both;"></p>
+<img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/lukasiewicz.jpg" />
+</p>
+<p><strong>Thomas Lukasiewicz</strong> is currently a Professor of Computer Science with
+the Department of Computer Science, University of Oxford, UK, and a
+Turing Fellow with the Alan Turing Institute, London, UK. Prior to
+this, he was holding a prestigious Heisenberg Fellowship by the German
+Research Foundation (DFG), affiliated with the University of Oxford,
+TU Vienna, Austria, and Sapienza University of Rome, Italy. His
+research interests are in artificial intelligence (AI) and information
+systems, including especially knowledge representation, uncertainty in
+AI, machine learning, the (Social and/or Semantic) Web, and
+databases. He received the IJCAI-01 Distinguished Paper Award, the AIJ
+Prominent Paper Award 2013, and the RuleML 2015 Best Paper Award. He
+is area editor for the journal ACM TOCL, associate editor for the
+journals JAIR and AIJ, and editor for the journals Semantic Web and
+Heliyon.
+</p>
+<h2 style="clear:both; padding-top:2em;">PODS Best Paper Award</h2><p><strong>Efficient Logspace Classes for Enumeration, Counting, and Uniform Generation</strong>
+</p>
+<p>Marcelo Arenas,Luis Alberto Croqueviell, Rajesh Jayaram, Cristian Riveros
+</p>
+<p><strong>Abstract:</strong>
+</p>
+<p> In this work, we study two simple yet general complexity classes,
+based on logspace Turing machines, which provide a unifying framework
+for efficient query evaluation in areas like information extraction
+and graph databases, among others. We investigate the complexity of
+three fundamental algorithmic problems for these classes: enumeration,
+counting and uniform generation of solutions, and show that they have
+several desirable properties in this respect. Both complexity classes
+are defined in terms of nondeterministic logspace transducers (NL
+transducers). For the first class, we consider the case of unambiguous
+NL transducers, and we prove constant delay enumeration, and both
+counting and uniform generation of solutions in polynomial time. For
+the second class, we consider unrestricted NL transducers, and we
+obtain polynomial delay enumeration, approximate counting in
+polynomial time, and polynomial-time randomized algorithms for uniform
+generation. More specifically, we show that each problem in this
+second class admits a fully polynomial-time randomized approximation
+scheme (FPRAS) and a polynomial-time Las Vegas algorithm for uniform
+generation. Interestingly, the key idea to prove these results is to
+show that the fundamental problem #NFA admits an FPRAS, where #NFA
+is the problem of counting the number of strings of length n accepted
+by a nondeterministic finite automaton (NFA). While this problem is
+known to be #P-complete and, more precisely, SpanL-complete, it was
+open whether this problem admits an FPRAS. In this work, we solve this
+open problem, and obtain as a welcome corollary that every function in
+SpanL admits an FPRAS.
+</p>
+<p><p style="clear:both;"></p>
+<img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/arenas.png" />
+</p>
+<p><strong>Marcelo Arenas</strong> is a Professor at the
+Department of Computer Science at the Pontificia Universidad Catolica
+de Chile, and the director of the Millennium Institute for
+Foundational Research on Data. He received a Ph.D. from the University
+of Toronto in 2005. His research interests are in the areas of data
+management, applications of logic in computer science and Semantic
+Web. Marcelo Arenas has received an IBM Ph.D. Fellowship (2004), a
+SIGMOD Jim Gray Doctoral Dissertation Award Honorable Mention in 2006
+for his Ph.D. dissertation "Design Principles for XML Data", the 2016
+Semantic Web Science Association (SWSA) Ten-Year Award for the article
+"Semantics and Complexity of SPARQL" and eight best paper awards (PODS
+2003, PODS 2005, ISWC 2006, ICDT 2010, ESWC 2011, PODS 2011, WWW 2012
+and ISWC 2014). He has served on multiple program committees and
+editorial boards, and he has chaired the program committees of ICDT
+2015, ISWC 2015 and PODS 2018.
+</p>
+<p><p style="clear:both;"></p>
+<img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/rendic.png" />
+</p>
+<p><strong>Luis Alberto Croquevielle</strong> is a student at Pontificia Universidad
+Católica de Chile, where he has just finished his Master of Science,
+advised by Marcelo Arenas. His master's research focused on the study
+of enumeration problems, and its relation to other questions such as
+counting and uniform generation. His work was supported by the
+Instituto Milenio de Investigación sobre los Fundamentos de los Datos
+(IMFD), and conducted in collaboration with other researchers of IMFD.
+</p>
+<p><p style="clear:both;"></p>
+<img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/jayaram.jpg" />
+</p>
+<p><strong>Rajesh Jayaram</strong> is a PhD student in theoretical computer science at
+Carnegie Mellon University, advised by David Woodruff. Prior to
+beginning his PhD in 2017, Rajesh received his B.S. in Mathematics
+and Computer Science from Brown University. His research focuses
+primarily on streaming and sketching algorithms for problems in
+big-data, as well as lower bounds for these problems. In particular,
+his work frequently involves applying techniques from dimensionality
+reduction and the randomized analysis of algorithms to obtain
+efficient algorithms for big data-sets.
+</p>
+<p><p style="clear:both;"></p>
+<img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/riveros.jpg" />
+</p>
+<p><strong>Cristian Riveros</strong> is an assistant professor at the Department of
+Computer Science at PUC Chile and a young researcher at the Millenium
+Institute on Foundational Research on Data (IMFD). He received his
+D.Phil degree from the University of Oxford in 2013. Previously, he
+did his undergraduate studies at PUC Chile. His research interests are
+in database theory and data management systems, specifically, in data
+stream management systems, information extraction, and graph data.
+</p>
+<h2 style="clear:both; padding-top:2em;">PODS Best Student Paper Award</h2><p><strong>On the Enumeration Complexity of Unions of Conjunctive Queries</strong>
+</p>
+<p>Nofar Carmeli, Markus Kröll
+</p>
+<p><strong>Abstract:</strong>
+</p>
+<p> We study the enumeration complexity of Unions of Conjunctive Queries
+(UCQs). We aim to identify the UCQs that are tractable in the sense
+that the answer tuples can be enumerated with a linear preprocessing
+phase and a constant delay between every successive tuples. It has
+been established that, in the absence of self joins and under
+conventional complexity assumptions, the CQs that admit such an
+evaluation are precisely the free-connex ones. A union of tractable
+CQs is always tractable. We generalize the notion of free-connexity
+from CQs to UCQs, thus showing that some unions containing intractable
+CQs are, in fact, tractable. Interestingly, some unions consisting of
+only intractable CQs are tractable too. The question of a finding a
+full characterization of the tractability of UCQs remains
+open. Nevertheless, we prove that for several classes of queries,
+free-connexity fully captures the tractable UCQs.
+</p>
+<p><p style="clear:both;"></p>
+<img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/carmeli.jpg" />
+</p>
+<p><strong>Nofar Carmeli</strong> is a PhD student in the Data and Knowledge group at
+Technion, Israel Institute of Technology, advised by Prof. Benny
+Kimelfeld. Her research focuses on query optimization with guarantees
+using enumeration techniques. Nofar completed her BSc in 2015 in the
+Lapidim excellence program of the Computer Science department of
+Technion.
+</p>
+<p><p style="clear:both;"></p>
+<img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/krol.jpg" />
+</p>
+<p><strong>Markus Kröll</strong> is a pre-doctoral researcher at the TU Wien. In his
+research he focuses on database theory and lower bounds in enumeration
+complexity.
+</p>
+<h2 style="clear:both; padding-top:2em;">Gems of PODS</h2><p>The Gems of PODS event features topics and results in PODS that have
+been highly influential in the PODS community and beyond. This year's
+Gems of PODS is awarding the following two papers:
+</p>
+<p><strong>Latent Semantic Indexing: A Probabilistic Analysis</strong>
+</p>
+<p>Christos H. Papadimitriou, Prabhakar Raghavan, Hisao Tamaki, Santosh Vempala. PODS 1998
+</p>
+<p><strong>Consistent Query Answers in Inconsistent Databases</strong>
+</p>
+<p>Marcelo Arenas, Leopoldo E. Bertossi, Jan Chomicki. PODS 1999
+</p>
+<p><em>The PODS of Gems event will host two invited talks, namely by
+Christos Papadimitriou and Leopoldo Bertossi.</em>
+</p>
+<p><strong>Remembering the Probabilistic Analysis of Latent Semantic Indexing</strong>
+</p>
+<p>Christos Papadimitriou
+</p>
+<p><strong>Abstract.</strong>
+</p>
+<p>In the late 1990s, the possibility of algorithmic
+extraction of insight from soulless data loomed potentially important
+and very intriguing. I will look back at our attempt at understanding
+and advancing this research program in the light of two decades of
+blistering progress in spectral methods, machine learning, data
+harvesting and deep nets.
+</p>
+<p><strong>Database Repairs and Consistent Query Answering: Origins and Further Developments</strong>
+</p>
+<p>Leopoldo Bertossi
+</p>
+<p><strong>Abstract:</strong>
+</p>
+<p>In this talk I will review the main concepts around database repairs
+and consistent query answering, with emphasis on tracing back the
+origin, motivation, and early developments. I will also describe some
+research directions that has spun from those main concepts and the
+original line of research. I will emphasize, in particular, fruitful
+and recent connections between repairs and causality in databases.
+</p>
+<p><p style="clear:both;"></p>
+<img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/papadimitriou.jpg" />
+</p>
+<p>Professor <strong>Christos H. Papadimitriou</strong> received his BS in Electrical
+Engineering from Athens Polytechnic in 1972. He has a MS in Electrical
+Engineering and a PhD in Electrical Engineering/Computer Science from
+Princeton, received in 1974 and 1976, respectively. He considers
+himself fundamentally a teacher, having taught at Harvard, MIT, Athens
+Polytechnic, Stanford, and UCSD, before joining UC Berkeley in 1996.
+Since 2017 he is the Donovan Family Professor of Computer Science at
+Columbia University in New York. He has authored several graduate
+textbooks, including ``Computational Complexity'', ``Elements of the
+Theory of Computation'', ``Combinatorial Optimization: Algorithms and
+Complexity'', and the undergraduate textbook ``Algorithms'', and many
+research papers on the theory of algorithms and complexity and its
+applications to Optimization, Database Theory, Control Theory, AI,
+Robotics, Combinatorics, the Internet, Economics and Games Theory,
+Evolution, Learning, and more recently the Brain. He has also written
+three novels: ``Turing'', the best-selling ``Logicomix'' and his
+latest ``Independence''. Professor Papadimitriou has been awarded the
+Knuth Prize, IEEE's John von Neumann Medal, the EATCS Award, the IEEE
+Computer Society Charles Babbage Award, and the G&ouml;del Prize, as well
+as nine doctorates honoris causa. He is a fellow of the Association
+for Computer Machinery and the National Academy of Engineering, and a
+member of the National Academy of Sciences of the USA and of the
+American Academy of Arts and Sciences.
+</p>
+<p><p style="clear:both;"></p>
+<img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/bertossi.jpg" />
+</p>
+<p><strong>Leopoldo Bertossi</strong> has been Full Professor at the School of Computer
+Science, Carleton University (Ottawa, Canada) from 2001 to 2019, from
+which he is retiring this year. In September 2019 he will take up a
+full-professorship at Universidad Adolfo Ibanez (UAI, Chile), the
+oldest and most prestigious fully-private university in Chile. He is a
+Senior Computer Scientist at RelationalAI Inc., since August 2018. He
+is also, since 2019, a senior member of the "Millenium Research
+Institute for Foundations of Data" (IMFD, Chile). Until 2001 he was
+professor at the Department of Computer Science, School of Engineering
+of the Catholic University of Chile (PUC), and departmental chair
+(1993-1995). He was the President of the Chilean Computer Science
+Society (SCCC) in 1996 and 1999-2000. He obtained a PhD in
+Mathematics from the Pontifical Catholic University of Chile (PUC) in
+1988, with a PhD thesis on mathematical logic (model theory) under the
+supervision of Prof. Joerg Flum (University of Freiburg, Germany).
+He has been visiting professor and researcher at several universities,
+among them: University of Toronto (1989/90); Wisconsin-Milwaukee
+(1990/91); Marseille-Luminy (1997), Technical University Berlin
+(1997/98); Free University of Bolzano-Bozen, Italy (1995); University
+of Calabria (2014); Technical University of Vienna (2006 and 2017, as
+a Pauli Fellow of the "Wolfgang Pauli Institute (WPI) Vienna").
+Prof. Bertossi's research interests include data science, database
+theory, data management, business intelligence, knowledge
+representation, uncertain reasoning, logic programming, computational
+logic, and statistical relational learning.
+</p>
+</div></div></div> </div>
+<footer>
+</footer>
+</div>
+</div> 
+</div>
+
+</section> 
+<aside id="sidebar" role="complementary" class="sidebar clearfix">
+<div class="region region-sidebar-first">
+<div id="block-menu-menu-welcome" class="block block-menu">
+<h2>General</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/" title="">Homepage</a></li>
+<li class="leaf"><a href="/prog_overview" title="">Program Overview</a></li>
+<li class="last leaf"><a href="https://confer.csail.mit.edu/sigmod2019/schedule#MondayBreakfast" title="">Detailed Program</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-calls-for-submissions" class="block block-menu">
+<h2>PODS Program</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/pods_research_papers" title="">Research Papers</a></li>
+<li class="last leaf"><a href="/sigmod_keynote" title="">Keynote Talk</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-sigmod-program" class="block block-menu">
+<h2>SIGMOD Program</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/sigmod_research_papers_list" title="">Research Papers</a></li>
+<li class="leaf"><a href="/sigmod_keynote" title="">Keynote Talks</a></li>
+<li class="leaf"><a href="/sigmod_demo_papers" title="">Demo Papers</a></li>
+<li class="leaf"><a href="/sigmod_tutorials" title="">Tutorials</a></li>
+<li class="leaf"><a href="/sigmod_industry_list" title="">Industrial Papers</a></li>
+<li class="leaf active-trail"><a href="/awards" title="" class="active-trail active">Awards</a></li>
+<li class="last leaf"><a href="/social_events" title="">Social Events</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-participant-information" class="block block-menu">
+<h2>Participant Information</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="https://www.regonline.com/acmsigmodpods2019" title="">Registration</a></li>
+<li class="leaf"><a href="/conf_venue" title="">Conference Venue</a></li>
+<li class="leaf"><a href="/live_streams" title="">Live Streams</a></li>
+<li class="leaf"><a href="/accommodation" title="">Accommodation</a></li>
+<li class="leaf"><a href="/grants" title="">Student Travel Award</a></li>
+<li class="last leaf"><a href="/node/105" title="">Visa Information</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-organization" class="block block-menu">
+<h2>Organization</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/officers" title="Conference Officers">Conference Officers</a></li>
+<li class="leaf"><a href="/sigmodpc" title="Organization: SIGMOD PC">SIGMOD PC</a></li>
+<li class="leaf"><a href="/podscom" title="">PODS PC</a></li>
+<li class="leaf"><a href="/demo_pc" title="">SIGMOD Demo PC</a></li>
+<li class="leaf"><a href="/industrypc" title="">SIGMOD Industry PC</a></li>
+<li class="leaf"><a href="/sponsor_opportunities" title="">Sponsor Opportunities</a></li>
+<li class="last leaf"><a href="/policy" title="">Anti-Discrimination Policy</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-events" class="block block-menu">
+<h2>Special and Co-located Events</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/aff_wshops" title="">Affiliated Workshops</a></li>
+<li class="leaf"><a href="/student_rs_competition" title="">SIGMOD Student Research Competition</a></li>
+<li class="leaf"><a href="/new_researchers_symp" title="">New Researcher Symposium</a></li>
+<li class="leaf"><a href="http://sigmod19contest.itu.dk" title="">Programming Contest</a></li>
+<li class="leaf"><a href="/Kolaitis_Event" title="">Phokion Kolaitis Special Event</a></li>
+<li class="leaf"><a href="https://amsterdamdatascience.nl/event/ads-drinks-data-ads-meets-sigmod/" title="An event with three talks by data management expert, opened and closed with drinks+snacks, in which the local ADS data science community can mingle with the SIGMOD crowd. Sponsored by ADS partner Elsevier.">Amsterdam Data Science (ADS) Event </a></li>
+<li class="last leaf"><a href="http://ldbcouncil.org/12th-tuc-meeting-sigmod-2019-amsterdam-july-5-2019" title="The Linked Data Benchmark Council (LDBC - ldbcouncil.org)  is a non-profit organization overseeing industry and academic collaboration in graph data management software. Its core mission is the establishment of benchmarks, such as the LDBC Social Network Benchmark and Graphalytics, but recently LDBC is also involved in efforts to create a common Property Graph schema model and query language. These Technical User Community (TUC) meetings allow graph practitioners to present challenges in graph data management, and provide feedback on the work of LDBC task forces, who also present recent updates in these meetings. Attendence is open and free, but registration is required (see link).">LDBC TUC Meeting</a></li>
+</ul> </div>
+</div> 
+<div id="block-block-5" class="block block-block">
+<div class="content">
+
+<p><a class="twitter-timeline" data-height="600" href="https://twitter.com/SIGMOD2019?ref_src=twsrc%5Etfw">Tweets by SIGMOD2019</a> </p>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div>
+</div> 
+</div>
+
+</aside> 
+</div>
+<div class="clear"></div>
+
+<div class="region region-footer">
+<div id="block-block-1" class="block block-block">
+<div class="content">
+<div id="footer">
+<table width="920" border="0"><tbody><tr><td style="display:inline-block; width:300px;"> </td>
+<td style="display:inline-block; width:120px;">
+<a href="http://www.sigmod.org/" target="_blank" style="background-image: none; border: none;"><br /><img src="https://sigmod2018.org/images/acm.jpg" alt="ACM SIGMOD" height="30px" longdesc="The SIGMOD/PODS conference is organized and sponsored by ACM SIGMOD." /></a>
+</td>
+<td style="display:inline-block; width:181px;"><a href="http://www.acm.org"><img src="sites/default/files/imported/images/acm.png" alt="ACM" width="160" height="56" longdesc="http://www.acm.org" /></a></td>
+<td style="display:inline-block; width:105px;">
+<a href="http://www.cwi.nl/" target="_blank" style="background-image: none; border: none;"><br /><img src="sites/default/files/cwi-logo.png" alt="CWI" height="45px" longdesc="CWI handles local conference organization." /></a>
+</td>
+<td style="display:inline-block; width:100px;"><a href="http://sigai.acm.org"><img src="http://sigai.acm.org/static/logo.svg" alt="ACM" width="79" height="56" longdesc="http://sigai.acm.org" /></a></td>
+<td style="display:inline-block; width:80px;"><a href="https://www.sigact.org"><img src="https://www.sigact.org/img/logo-lean.svg" alt="ACM" width="80" height="56" longdesc="https://www.sigact.org" /></a></td>
+</tr></tbody></table></div>
+ </div>
+</div> 
+</div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head>
+<meta charset="utf-8" />
+<link rel="shortlink" href="/node/52" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/sigmod_keynote" />
+<title>Keynote Talks | SIGMOD/PODS 2019</title>
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_Vn_p7xhZmS8yWWx26P0Cc7Tm0GG2K1gLWEoVrhw5xxg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_bVQuO11O__rBW1kAInzl3NxQUx7huZU_6kwE-OEktwY.css" media="all" />
+<script type="text/javascript" src="http://www.sigmod2019.org/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="http://www.sigmod2019.org/sites/default/files/js/js_UwO_0RHLq_nsvPwmX_QYU1JLTYOeZOvu0d7mUDYvhvQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"business","theme_token":"NUfYnkS84xfJDB2cVJeiEbCkUzftmTcfYkF8ghRjxMU","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/business\/js\/superfish.js":1,"sites\/all\/themes\/business\/js\/supersubs.js":1,"sites\/all\/themes\/business\/js\/sfmenu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/business\/style.css":1,"sites\/all\/themes\/business\/color\/colors.css":1}}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="/sites/all/themes/business/js/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-52 node-type-page">
+<div id="wrap">
+<header id="header" class="clearfix" role="banner">
+<div>
+<div id="logo">
+<a href="/" title="Home"><img src="http://www.sigmod2019.org/sites/default/files/image_preview5.png" alt="Home" /></a>
+</div>
+<hgroup id="sitename">
+<h2><a href="/" title="Home"></a></h2>
+<p></p>
+</hgroup>
+</div>
+<nav id="navigation" class="clearfix" role="navigation">
+<div id="main-menu">
+<ul class="menu"><li class="first leaf"><a href="/">Home</a></li>
+<li class="leaf"><a href="/grants">SIGMOD 2019 Travel Award</a></li>
+<li class="leaf"><a href="/sigmodcfp">SIGMOD Call For Papers</a></li>
+<li class="leaf"><a href="/podscfp">PODS Call For Papers</a></li>
+<li class="last leaf"><a href="/industrycfp">SIGMOD Industrial Track Call for Papers</a></li>
+</ul> </div>
+</nav>
+</header>
+<div class="region region-header">
+<div id="block-block-3" class="block block-block">
+<div class="content">
+<img src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/photo.jpg" title="picture Creative Commons BY-NC-SA 2.0 licensed, (c) Mike ‘O Sullivan." width="100%" /> </div>
+</div> 
+<div id="block-block-4" class="block block-block">
+<div class="content">
+<div style="text-align:center;color: #485b81;font-weight: bold;"><span style="white-space:nowrap;">ACM SIGMOD/PODS International Conference on Management of Data</span> <span style="margin-left:3em;margin-right:3em;white-space:nowrap;">June 30 - July 5, 2019</span> <span style="white-space:nowrap;">Amsterdam, The Netherlands</span></div> </div>
+</div> 
+</div>
+
+<div id="main">
+<section id="post-content" role="main">
+<h1 class="page-title">Keynote Talks</h1> <div class="region region-content">
+<div id="block-system-main" class="block block-system">
+<div class="content">
+<span property="dc:title" content="Keynote Talks" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+<div class="node node-page node-full">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2>PODS Keynote: Cynthia Dwork (Harvard University)</h2><p><strong><em>Differential Privacy and the US Census</em></strong>
+</p>
+<p><strong>Abstract.</strong> Differential privacy is a mathematically rigorous definition
+of privacy tailored to statistical analysis of large datasets.
+Differentially private systems simultaneously provide useful statistics
+to the well-intentioned data analyst and strong protection against
+arbitrarily powerful adversarial system users -- without needing to
+distinguish between the two. Differentially private systems 'don't care'
+what the adversary knows, now or in the future. Finally, differentially
+private systems can rigorously bound and control the cumulative privacy
+loss that accrues over many interactions with the confidential data.
+These unique properties, together with the abundance of auxiliary data
+sources and the ease with which they can be deployed by a privacy
+adversary, led the US Census Bureau to adopt differential privacy as the
+disclosure avoidance methodology of the 2020 decennial census. This talk
+will motivate the definition of differential privacy, reflect on the
+theory-meets-practice experiences of the decennial census, and highlight
+a few pressing challenges in the field.
+</p>
+<p><img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/dwork.jpg" />
+</p>
+<p><strong>Cynthia Dwork</strong>, the Gordon McKay Professor of Computer Science at the
+John A. Paulson School of Engineering and Applied Sciences at Harvard,
+the Radcliffe Alumnae Professor at the Radcliffe Institute for
+Advanced Study, Affiliated Faculty Member at Harvard Law School, and
+Distinguished Scientist at Microsoft Research, is renowned for placing
+privacy-preserving data analysis on a mathematically rigorous
+foundation. She has also made seminal contributions in distributed
+computing and cryptography. Her current focus is on developing the
+theory of algorithmic fairness. Dwork is a member of the US National
+Academy of Sciences, the US National Academy of Engineering, and the
+American Philosophical Society, and is a Fellow of the American
+Academy of Arts and Sciences and of the ACM.
+</p>
+<h2>SIGMOD Keynote 1: Lise Getoor (UC Santa Cruz)</h2><p><strong><em>Responsible Data Science</em></strong>
+</p>
+<p><strong>Abstract.</strong> Data science is an emerging discipline that offers both
+promise and peril. Responsible data science refers to efforts that
+address both the technical and societal issues in emerging data-driven
+technologies. How can machine learning and database systems reason
+effectively about complex dependencies and uncertainty? Furthermore, how
+do we understand the ethical and societal issues involved in data-driven
+decision-making? There is a pressing need to integrate algorithmic and
+statistical principles, social science theories, and basic humanist
+concepts so that we can think critically and constructively about the
+socio-technical systems we are building. In this talk, I will overview
+this emerging area, with an emphasis on relational learning.
+</p>
+<p><img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/getoor.jpg" />
+</p>
+<p><strong>Lise Getoor</strong> is a professor in the Computer Science Department
+at UC Santa Cruz and founding director of the Data, Discovery and
+Decisions (D3) Data Science Research Center at the University of
+California, Santa. Cruz. Her research areas include machine learning,
+data integration and reasoning under uncertainty, with an emphasis on
+graph and network data. She has over 250 publications, including 13
+best paper awards. She is a Fellow of the Association for Artificial
+Intelligence, has served as an elected board member of the
+International Machine Learning Society and the Computing Research
+Association (CRA). In fall 2018, she was a visiting researcher in the
+Fairness, Accountability, Transparency and Ethics research group at
+Microsoft Research, NYC. She received her PhD from Stanford University
+in 2001, her MS from UC Berkeley, and her BS from UC Santa Barbara,
+and was a professor at the University of Maryland, College Park from
+2001-2013.
+</p>
+<h2>SIGMOD Keynote 2: C. Mohan (IBM Almaden)</h2><p><strong><em>State of Public and Private Blockchains: Myths and Reality</em></strong>
+</p>
+<p><strong>Abstract.</strong> It has been a decade since the concept of blockchain was
+invented as the underlying core data structure of the permissionless or
+public Bitcoin cryptocurrency network. Since then, several
+cryptocurrencies, tokens and ICOs have emerged. After much speculation
+and hype, significant number of them have become problematic or
+worthless! The public blockchain system Ethereum emerged by generalizing
+the use of blockchains to manage any kind of asset, be it physical or
+purely digital, with the introduction of Smart Contracts. Over the
+years, numerous myths have developed with respect to the purported
+utility and the need for public blockchains. The adoption and further
+adaptation of blockchains and smart contracts for use in the
+permissioned or private environments is what I consider to be useful and
+of practical consequence. Hence, the technical aspects of only private
+blockchain systems will be the focus of my SIGMOD 2019 keynote. Along
+the way, I will bust many myths associated with public blockchains. I
+will also compare traditional database technologies with blockchain
+systems' features and identify desirable future research topics.
+</p>
+<p><img style="width:160px;float:right;" src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/images/awards/mohan.png" />
+</p>
+<p><strong>Dr. C. Mohan</strong> is currently an IBM Fellow at the IBM Almaden
+Research Center in Silicon Valley and a Distinguished Visiting
+Professor at Tsinghua University in China. He has been an IBM
+researcher for 37 years in the database and related areas, impacting
+numerous IBM and non-IBM products, the research and academic
+communities, and standards, especially with his invention of the
+well-known ARIES family of database locking and recovery algorithms,
+and the Presumed Abort distributed commit protocol. This IBM (1997),
+ACM (2002) and IEEE (2002) Fellow has also served as the IBM India
+Chief Scientist (2006-2009). In addition to receiving the ACM SIGMOD
+Innovations Award (1996), the VLDB 10 Year Best Paper Award (1999) and
+numerous IBM awards, Mohan was elected to the US and Indian National
+Academies of Engineering (2009) and named an IBM Master Inventor
+(1997). This Distinguished Alumnus of IIT Madras (1977) received his
+PhD at the University of Texas at Austin (1981). He is an inventor of
+50 patents. He is currently focused on Blockchain, Big Data and HTAP
+technologies (<em>//bit.ly/CMbcDB</em>, <em>//bit.ly/CMgMDS</em>). For 2
+years, he has been an evangelist for private blockchains and the myth
+buster of public blockchains. Since 2016, Mohan has been a
+Distinguished Visiting Professor of China’s prestigious Tsinghua
+University. He has served on the advisory board of IEEE Spectrum, and
+on numerous conference and journal boards. Mohan is a frequent speaker
+in North America, Europe and Asia, and has given talks in 40
+countries. He is very active on social media and has a huge network of
+followers.
+</p></div></div></div> </div>
+<footer>
+</footer>
+</div>
+</div> 
+</div>
+
+</section> 
+<aside id="sidebar" role="complementary" class="sidebar clearfix">
+<div class="region region-sidebar-first">
+<div id="block-menu-menu-welcome" class="block block-menu">
+<h2>General</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/" title="">Homepage</a></li>
+<li class="leaf"><a href="/prog_overview" title="">Program Overview</a></li>
+<li class="last leaf"><a href="https://confer.csail.mit.edu/sigmod2019/schedule#MondayBreakfast" title="">Detailed Program</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-calls-for-submissions" class="block block-menu">
+<h2>PODS Program</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/pods_research_papers" title="">Research Papers</a></li>
+<li class="last leaf active-trail"><a href="/sigmod_keynote" title="" class="active-trail active">Keynote Talk</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-sigmod-program" class="block block-menu">
+<h2>SIGMOD Program</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/sigmod_research_papers_list" title="">Research Papers</a></li>
+<li class="leaf active-trail"><a href="/sigmod_keynote" title="" class="active-trail active">Keynote Talks</a></li>
+<li class="leaf"><a href="/sigmod_demo_papers" title="">Demo Papers</a></li>
+<li class="leaf"><a href="/sigmod_tutorials" title="">Tutorials</a></li>
+<li class="leaf"><a href="/sigmod_industry_list" title="">Industrial Papers</a></li>
+<li class="leaf"><a href="/awards" title="">Awards</a></li>
+<li class="last leaf"><a href="/social_events" title="">Social Events</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-participant-information" class="block block-menu">
+<h2>Participant Information</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="https://www.regonline.com/acmsigmodpods2019" title="">Registration</a></li>
+<li class="leaf"><a href="/conf_venue" title="">Conference Venue</a></li>
+<li class="leaf"><a href="/live_streams" title="">Live Streams</a></li>
+<li class="leaf"><a href="/accommodation" title="">Accommodation</a></li>
+<li class="leaf"><a href="/grants" title="">Student Travel Award</a></li>
+<li class="last leaf"><a href="/node/105" title="">Visa Information</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-organization" class="block block-menu">
+<h2>Organization</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/officers" title="Conference Officers">Conference Officers</a></li>
+<li class="leaf"><a href="/sigmodpc" title="Organization: SIGMOD PC">SIGMOD PC</a></li>
+<li class="leaf"><a href="/podscom" title="">PODS PC</a></li>
+<li class="leaf"><a href="/demo_pc" title="">SIGMOD Demo PC</a></li>
+<li class="leaf"><a href="/industrypc" title="">SIGMOD Industry PC</a></li>
+<li class="leaf"><a href="/sponsor_opportunities" title="">Sponsor Opportunities</a></li>
+<li class="last leaf"><a href="/policy" title="">Anti-Discrimination Policy</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-events" class="block block-menu">
+<h2>Special and Co-located Events</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/aff_wshops" title="">Affiliated Workshops</a></li>
+<li class="leaf"><a href="/student_rs_competition" title="">SIGMOD Student Research Competition</a></li>
+<li class="leaf"><a href="/new_researchers_symp" title="">New Researcher Symposium</a></li>
+<li class="leaf"><a href="http://sigmod19contest.itu.dk" title="">Programming Contest</a></li>
+<li class="leaf"><a href="/Kolaitis_Event" title="">Phokion Kolaitis Special Event</a></li>
+<li class="leaf"><a href="https://amsterdamdatascience.nl/event/ads-drinks-data-ads-meets-sigmod/" title="An event with three talks by data management expert, opened and closed with drinks+snacks, in which the local ADS data science community can mingle with the SIGMOD crowd. Sponsored by ADS partner Elsevier.">Amsterdam Data Science (ADS) Event </a></li>
+<li class="last leaf"><a href="http://ldbcouncil.org/12th-tuc-meeting-sigmod-2019-amsterdam-july-5-2019" title="The Linked Data Benchmark Council (LDBC - ldbcouncil.org)  is a non-profit organization overseeing industry and academic collaboration in graph data management software. Its core mission is the establishment of benchmarks, such as the LDBC Social Network Benchmark and Graphalytics, but recently LDBC is also involved in efforts to create a common Property Graph schema model and query language. These Technical User Community (TUC) meetings allow graph practitioners to present challenges in graph data management, and provide feedback on the work of LDBC task forces, who also present recent updates in these meetings. Attendence is open and free, but registration is required (see link).">LDBC TUC Meeting</a></li>
+</ul> </div>
+</div> 
+<div id="block-block-5" class="block block-block">
+<div class="content">
+
+<p><a class="twitter-timeline" data-height="600" href="https://twitter.com/SIGMOD2019?ref_src=twsrc%5Etfw">Tweets by SIGMOD2019</a> </p>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div>
+</div> 
+</div>
+
+</aside> 
+</div>
+<div class="clear"></div>
+
+<div class="region region-footer">
+<div id="block-block-1" class="block block-block">
+<div class="content">
+<div id="footer">
+<table width="920" border="0"><tbody><tr><td style="display:inline-block; width:300px;"> </td>
+<td style="display:inline-block; width:120px;">
+<a href="http://www.sigmod.org/" target="_blank" style="background-image: none; border: none;"><br /><img src="https://sigmod2018.org/images/acm.jpg" alt="ACM SIGMOD" height="30px" longdesc="The SIGMOD/PODS conference is organized and sponsored by ACM SIGMOD." /></a>
+</td>
+<td style="display:inline-block; width:181px;"><a href="http://www.acm.org"><img src="sites/default/files/imported/images/acm.png" alt="ACM" width="160" height="56" longdesc="http://www.acm.org" /></a></td>
+<td style="display:inline-block; width:105px;">
+<a href="http://www.cwi.nl/" target="_blank" style="background-image: none; border: none;"><br /><img src="sites/default/files/cwi-logo.png" alt="CWI" height="45px" longdesc="CWI handles local conference organization." /></a>
+</td>
+<td style="display:inline-block; width:100px;"><a href="http://sigai.acm.org"><img src="http://sigai.acm.org/static/logo.svg" alt="ACM" width="79" height="56" longdesc="http://sigai.acm.org" /></a></td>
+<td style="display:inline-block; width:80px;"><a href="https://www.sigact.org"><img src="https://www.sigact.org/img/logo-lean.svg" alt="ACM" width="80" height="56" longdesc="https://www.sigact.org" /></a></td>
+</tr></tbody></table></div>
+ </div>
+</div> 
+</div>
+
+</div>
+</body>
+</html>

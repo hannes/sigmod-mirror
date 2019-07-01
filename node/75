@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head>
+<meta charset="utf-8" />
+<link rel="shortlink" href="/node/75" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/sigmodcfp" />
+<title> SIGMOD 2019 Call For Papers | SIGMOD/PODS 2019</title>
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_Vn_p7xhZmS8yWWx26P0Cc7Tm0GG2K1gLWEoVrhw5xxg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_bVQuO11O__rBW1kAInzl3NxQUx7huZU_6kwE-OEktwY.css" media="all" />
+<script type="text/javascript" src="http://www.sigmod2019.org/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="http://www.sigmod2019.org/sites/default/files/js/js_UwO_0RHLq_nsvPwmX_QYU1JLTYOeZOvu0d7mUDYvhvQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"business","theme_token":"-ZKUW43RGoQQywgSHetI3m9jOR4AcJjcdxRcYYoJ4NA","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/business\/js\/superfish.js":1,"sites\/all\/themes\/business\/js\/supersubs.js":1,"sites\/all\/themes\/business\/js\/sfmenu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/business\/style.css":1,"sites\/all\/themes\/business\/color\/colors.css":1}}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="/sites/all/themes/business/js/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-75 node-type-page">
+<div id="wrap">
+<header id="header" class="clearfix" role="banner">
+<div>
+<div id="logo">
+<a href="/" title="Home"><img src="http://www.sigmod2019.org/sites/default/files/image_preview5.png" alt="Home" /></a>
+</div>
+<hgroup id="sitename">
+<h2><a href="/" title="Home"></a></h2>
+<p></p>
+</hgroup>
+</div>
+<nav id="navigation" class="clearfix" role="navigation">
+<div id="main-menu">
+<ul class="menu"><li class="first leaf"><a href="/">Home</a></li>
+<li class="leaf"><a href="/grants">SIGMOD 2019 Travel Award</a></li>
+<li class="leaf active-trail"><a href="/sigmodcfp" class="active-trail active">SIGMOD Call For Papers</a></li>
+<li class="leaf"><a href="/podscfp">PODS Call For Papers</a></li>
+<li class="last leaf"><a href="/industrycfp">SIGMOD Industrial Track Call for Papers</a></li>
+</ul> </div>
+</nav>
+</header>
+<div class="region region-header">
+<div id="block-block-3" class="block block-block">
+<div class="content">
+<img src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/photo.jpg" title="picture Creative Commons BY-NC-SA 2.0 licensed, (c) Mike ‘O Sullivan." width="100%" /> </div>
+</div> 
+<div id="block-block-4" class="block block-block">
+<div class="content">
+<div style="text-align:center;color: #485b81;font-weight: bold;"><span style="white-space:nowrap;">ACM SIGMOD/PODS International Conference on Management of Data</span> <span style="margin-left:3em;margin-right:3em;white-space:nowrap;">June 30 - July 5, 2019</span> <span style="white-space:nowrap;">Amsterdam, The Netherlands</span></div> </div>
+</div> 
+</div>
+
+<div id="main">
+<section id="post-content" role="main">
+<h1 class="page-title"> SIGMOD 2019 Call For Papers</h1> <div class="region region-content">
+<div id="block-system-main" class="block block-system">
+<div class="content">
+<span property="dc:title" content=" SIGMOD 2019 Call For Papers" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+<div class="node node-page node-full">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div id="maincontent">
+<p>The annual ACM SIGMOD conference is a leading international forum for database researchers, practitioners, developers, and users to explore cutting-edge ideas and results, and to exchange techniques, tools, and experiences. We invite the submission of original research contributions relating to all aspects of data management defined broadly, and particularly encourage submissions on topics of emerging interest in the research and development communities.</p>
+<h3>HIGHLIGHTS</h3>
+<ul><li>Abstract submission deadlines: July 12 (Round 1), October 18 (Round 2)</li>
+<li>Submission website: <a style="color: #CC6600; text-decoration: none;" href="https://cmt3.research.microsoft.com/SIGMOD2019"> https://cmt3.research.microsoft.com/SIGMOD2019</a></li>
+<li>Latest ACM paper format (2017): 14 pages + 4 pages for bibliography/appendix. </li>
+<li><span style=" color: red;font-weight: bold;">The font size needs to be changed to 10 pts.</span></li>
+<li>Authors of accepted papers have the option to upload a video presentation.</li>
+</ul><h3>TOPICS OF INTEREST</h3>
+<p>Topics of interest include but are not limited to the following:</p>
+<ul><li>Benchmarking and performance evaluation</li>
+<li>Crowd sourcing</li>
+<li>Data models, semantics, query languages</li>
+<li>Data provenance</li>
+<li>Data visualization</li>
+<li>Data warehousing, OLAP, SQL Analytics</li>
+<li>Database monitoring and tuning</li>
+<li>Database security, privacy, access control</li>
+<li>Database usability</li>
+<li>Databases for emerging hardware</li>
+<li>Distributed and parallel databases</li>
+<li>Graph data management, RDF, social networks</li>
+<li>Information extraction</li>
+<li>Information retrieval and text mining</li>
+<li>Knowledge discovery, clustering, data mining</li>
+<li>Query processing and optimization</li>
+<li>Schema matching, data integration, and data cleaning</li>
+<li>Scientific databases</li>
+<li>Semi-structured data</li>
+<li>Spatio-temporal databases</li>
+<li>Storage, indexing, and physical database design</li>
+<li>Streams, sensor networks, complex event processing</li>
+<li>Transaction processing</li>
+<li>Uncertain, probabilistic, and approximate databases</li>
+<li>Machine learning methods for management of data</li>
+</ul><p>
+</p><p>SIGMOD welcomes submissions on inter-disciplinary work, as long as there are clear contributions to management of data.</p>
+<h3>SUBMISSION GUIDELINES</h3>
+<p>All aspects of the submission and notification process will be handled electronically. Submissions must adhere to the paper formatting instructions. Research papers will be judged for quality and relevance through double-blind reviewing, where the identities of the authors are withheld from the reviewers. Author names and affiliations must not appear in the papers, and bibliographic references must be adjusted to preserve author anonymity. Submissions should be uploaded at: <a style="color: #CC6600; text-decoration: none;" href="https://cmt3.research.microsoft.com/SIGMOD2019">https://cmt3.research.microsoft.com/SIGMOD2019</a>.</p>
+<h3>IMPORTANT DATES (all deadlines at 5:00pm Pacific Time )</h3>
+<p></p><p> Research papers: as in the previous two SIGMOD conferences, there are two submission deadlines as below. Each submission cycle involves two rounds of reviewing to allow for minor revisions. Papers rejected in the first cycle are not allowed to be re-submitted in the second cycle. All notification dates are approximate.</p>
+<p><b>RESEARCH PAPER FIRST SUBMISSION CYCLE:</b><br /><strong>July 12, 2018</strong> : Abstract submission<br /><strong>July 19, 2018</strong>: Paper submission<br /><strong>September 3-5, 2018</strong>: Author responses<br /><strong>October 5, 2018</strong> : Notification of accept/revise/reject<br /><strong>November 2, 2018</strong>: Revised Submission<br /><strong>November 26, 2018</strong> : Notification of revision decision</p>
+<p> <b>RESEARCH PAPER SECOND SUBMISSION CYCLE:</b><br /><strong>October 18, 2018</strong> : Abstract submission<br /><strong>October 25, 2018</strong>: Paper submission<br /><strong>December 5-7, 2018</strong>: Author responses<br /><strong>January 19, 2019</strong> : Notification of accept/revise/reject<br /><strong>February 18, 2019</strong>: Revised Submission<br /><strong>March 11, 2019</strong> : Notification of revision decision<br /><strong>April 9, 2019</strong> Camera-ready due<br /></p>
+<p><b>CONFERENCE DATES:</b><br /><strong>June 30 - July 5, 2019</strong>
+</p>
+<h3>PROCEEDINGS AVAILABILITY</h3>
+<p>The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of the conference. The official publication date affects the deadline for any patent filings related to published work.
+</p>
+<h3>CONFLICTS OF INTEREST</h3>
+<p>During submission of a research paper, the submission site will request information about conflicts of interest of the paper's authors with program committee (PC) members. It is the full responsibility of all authors of a paper to identify all and only their potential conflict-of-interest PC members, according to the following definition:</p>
+<p><i>A paper author has a conflict of interest with a PC member when and only when one or more of the following conditions holds:</i></p>
+<ul><li><i>The PC member is a co-author of the paper.</i></li>
+<li><i>The PC member has been a co-worker in the same company or university within the past two years.</i></li>
+<li><i>The PC member has been a collaborator within the past two years.</i></li>
+<li><i>The PC member is or was the author's primary thesis advisor, no matter how long ago.</i></li>
+<li><i>The author is or was the PC member's primary thesis advisor, no matter how long ago.</i></li>
+<li><i>The PC member is a relative or close personal friend of the author.</i></li>
+</ul><p><i>Papers with incorrect or incomplete conflict of interest information as of the submission closing time are subject to immediate rejection.</i></p>
+<h3>DUPLICATE SUBMISSIONS AND NOVELTY REQUIREMENTS</h3>
+<p>A research paper submitted to SIGMOD 2019 cannot be under review for any other publishing forum or presentation venue, including conferences, workshops, and journals, during the time it is being considered for SIGMOD. Furthermore, after you submit a research paper to SIGMOD, you must await the response from SIGMOD and only re-submit elsewhere if your paper is rejected - or withdrawn at your request - from SIGMOD. This restriction applies not only to identical papers but also to papers with a substantial overlap in scientific content and results.</p>
+<p>Every research paper submitted to SIGMOD 2019 must present substantial novel research not described in any prior publication. In this context, a prior publication is (a) a paper of five pages or more presented, or accepted for presentation, at a refereed conference or workshop with proceedings; or (b) an article published, or accepted for publication, in a refereed journal. If a SIGMOD 2018 submission has overlap with a prior publication, the submission must cite the prior publication, along with all other relevant published work, following the guidelines in the Anonymity Requirements for Double-Blind Reviewing section below.
+</p>
+<p><i>Any violation of this policy will result in the immediate rejection of the submission, as well as in notification to the members of the SIGMOD Executive Committee, the members of the SIGMOD PC, and the editors or chairs of any other forums involved.</i></p>
+<h3>LENGTH, FILE TYPE, AND FORMATTING</h3>
+<p> <strong>The ACM template changed in 2017. Make sure you are using the latest version.</strong></p>
+<p><b>Length:</b> All submitted research papers must be formatted according to the instructions below. The main content of that paper must be no more than <b>14 pages</b> in length, although we will allow up to an additional <b>4 pages</b> for the bibliography and appendices describing additional material, as described below.</p>
+<p><b>Appendix:</b> Papers may <i>optionally</i> include an appendix with additional material relevant to the paper. The paper should stand alone without the appendix, and reviewers should not be required to consult the appendix to understand the key ideas, algorithms, results, experiments, or conclusions of the paper. Instead, the appendix should be used for additional material, such as proofs or non-essential experimental results that might be of interest to some readers. Reviewers will be instructed to judge the paper on the merits of the material in the main body of the paper and the references, and <i> will not be required to read or review the material in the appendix.</i></p>
+<p><b>File type:</b> Each research paper is to be submitted as a single PDF file, formatted for 8.5" x 11" paper and no more than 5 MB in file size. (Larger files will be rejected by the submission site.) Submitted papers must print without difficulty on a variety of printers, using Adobe Acrobat Reader. It is the responsibility of the authors to ensure that their submitted PDF file will print easily on simple default configurations</p>
+<p><b>Formatting:</b> Research papers must follow the ACM Proceedings Format, using either the <b>sample-sigconf.tex</b> or <b>ACM_SigConf.docx</b> template provided at <a style="color: #CC6600; text-decoration: none;" href="https://www.acm.org/publications/proceedings-template">https://www.acm.org/publications/proceedings-template</a> for LaTeX (version 2e) or Word, respectively. Note that the font size has to be changed to 10 pts. The margins, inter-column spacing, and line spacing in the templates must be kept unchanged. Please make sure you are using the latest version of the ACM template. <i>Any submitted paper violating the length, file type, or formatting requirements will be rejected without review.</i>
+</p>
+<h3>ANONYMITY REQUIREMENTS FOR DOUBLE-BLIND REVIEWING</h3>
+<p>Every research paper submitted to SIGMOD 2019 will undergo a ''double-blind'' reviewing process: the PC members and referees who review the paper will not know the identity of the authors. To ensure anonymity of authorship, authors must at least do the following:</p>
+<ul><li>Authors' names and affiliations must not appear on the title page or elsewhere in the paper.</li>
+<li>Funding sources must not be acknowledged anywhere in the paper.</li>
+<li>Research group members, or other colleagues or collaborators, must not be acknowledged anywhere in the paper.</li>
+<li>The paper’s file name must not identify the authors of the paper.</li>
+<li>Source file naming must also be done with care, to avoid identifying the authors’ names in the paper’s associated metadata. For example, if your name is Jane Smith and you submit a PDF file generated from a .dvi file called Jane-Smith.dvi, your authorship could be inferred by looking into the PDF file.</li>
+</ul><p>You must also use care in referring to related past work, particularly your own, in the paper. For example, if you are Jane Smith, the following text gives away the authorship of the submitted paper:
+</p>
+<blockquote><p>
+<i>In our previous work [1, 2], we presented two algorithms for ... In this paper, we build on that work by ...</i>
+</p></blockquote>
+<blockquote><p>
+<b>Bibliography</b><br /><i>[[1] Jane Smith, "A Simple Algorithm for ...," Proceedings of ACM SIGMOD 1997, pp. 1 - 10.<br />
+[[2] Jane Smith, "A More Complicated Algorithm for ...," Proceedings of ACM SIGMOD 1998, pp. 34 - 44.<br /></i>
+</p></blockquote>
+<p>The solution is to reference your past work in the third person (just as you would any other work that is related to your submitted paper). This allows you to set the context for your submission, while at the same time preserving anonymity:<br />
+In previous work [1, 2], algorithms were presented for ... In this paper, we build on that work by ...</p>
+<blockquote><p>
+<b>Bibliography</b><br /><i>[1] Jane Smith, "A Simple Algorithm for ...," Proceedings of ACM SIGMOD 1997, pp. 1 - 10.<br />
+[2] Jane Smith, "A More Complicated Algorithm for ...," Proceedings of ACM SIGMOD 1998, pp. 34 - 44.<br /></i>
+</p></blockquote>
+<blockquote><p>
+<b>Bibliography</b><br /><i>[1] Jane Smith, "A Simple Algorithm for ...," Proceedings of ACM SIGMOD 1997,<br />
+pp. 1 - 10.<br />
+[2] Jane Smith, "A More Complicated Algorithm for ...," Proceedings of ACM SIGMOD<br />
+1998, pp. 34 - 44.<br /></i>
+</p></blockquote>
+<p>Despite the anonymity requirements, you should still include all relevant work of your own in the references, using the above style; omitting them could potentially reveal your identity by negation. However, self-references should be limited to the essential ones, and extended versions of the submitted paper (e.g., technical reports or URLs for downloadable versions) must not be referenced.</p>
+<p>Common sense and careful writing can go a long way toward preserving anonymity without diminishing the quality or impact of a paper. The goal is to preserve anonymity while still allowing the reader to fully grasp the context (related past work, including your own) of the submitted paper. In past years, this goal has been achieved successfully by thousands of papers.</p>
+<p><i>It is the responsibility of authors to do their very best to preserve anonymity. Papers that do not follow the guidelines, or otherwise potentially reveal the identity of the authors, are subject to immediate rejection.<br /></i></p>
+<h3>REVIEWING PROCESS</h3>
+<p>As in previous SIGMOD conferences, every research paper submitted to SIGMOD 2019 will undergo a "double-blind" reviewing process, as discussed above, including a review and potentially also a revision phase (please see below). For SIGMOD 2019, especially, there are several additional aspects of the reviewing process in place. The complete review process is as follows:</p>
+<p> <b>Number of reviews</b>: All papers will receive at least three reviews. Papers for which the three reviews do not converge to an acceptance but have been rated “weak accept” or higher by at least one reviewer will benefit from up to two additional reviews.</p>
+<p><b>Rebuttals</b>: Before final decisions are made, authors will have 48 hours to read the reviews and submit an optional short (4000 characters) rebuttal. The sole purpose of the rebuttal is to clarify misunderstandings and factual errors through pointers to specific text in the submitted paper. As an example, a reviewer may have overlooked a part of the discussion in the paper and state that the paper fails to compare with a certain method; an example rebuttal will be of the form “see Section 2.4, paragraph 3”. If no factual errors exist in the reviews, a rebuttal is not needed. </p>
+<p><b>Revisions</b>: Some papers will be invited to submit a revised version of their paper. Authors will have less than a month to prepare their revision. The program committee will invite revisions at their discretion. The revision process is intended to be a constructive partnership between reviewers and authors. To this end, reviewers will be instructed to request revisions only in constructive scenarios with specific requests. In turn, authors bear the responsibility of attempting to meet those requests within the stated timeframe, or of withdrawing the paper from submission. Common revision requests can include ''justify a crucial assumption'', ''present a real(istic) scenario where the defined problem occurs'', ''clean up notation'', ''tighten presentation'', ''compare against some relevant previous system'', ''show experimental results with better data, such as at larger scale or from a real system''. Revisions will not be requested to address lack of technical depth or novelty or where the revised paper will address a substantially different problem from the original.</p>
+<p>
+</p><p><b>Expert reviewing of systems papers:</b> Systems papers come in different variants:</p>
+<ul><li>Papers that describe an entire new system, covering, e.g., the system architecture and design issues or experiences learned from building the system.</li>
+<li>Papers that extend an existing (open-source) system with new or more efficient functionality. Such papers may add new functionality to Spark, Hadoop, PostgreSQL, etc. The motivation may be to better support new applications.</li>
+<li>Papers that concern specific aspects of a system or systems. Such papers may concern storage management, query processing, indexing, transaction management, access control, authentication, etc.</li>
+<li>Papers that concern systems support for new hardware, e.g., multi core, SIMD, NUMA, HTM, SGX, GPU, FPGA.</li>
+<li>Papers that analyze the performance of a system or systems.</li>
+</ul><p>The SIGMOD 2019 Program Chairs will ensure that system papers are assigned not only to reviewers who are experts on the topic of the papers but also have extensive expertise in writing and evaluating systems papers. </p>
+<p></p>
+<p><b>Number of accepted papers and implications</b>: The number of accepted research papers will not be capped. We will accept all papers meeting the high quality and innovation standards of SIGMOD, and all accepted papers will be incorporated into the conference program.<br /></p><h3>PRESENTATION AND DISSEMINATION</h3>
+<p>The main forum for presentation at SIGMOD 2019 will continue to be the ''Research Plenary Sessions'', where every accepted research paper will be presented as a ''research poster''. Accepted papers will not necessarily be chosen for a ''traditional'' presentation slot during the conference: the PC may decide to select only a few papers for presentation. However, all accepted papers will be treated equally in the conference proceedings, which are the persistent, archival record of the conference. Authors of accepted papers in SIGMOD 2019 will have the opportunity to upload a video presentation of the research to the conference website, before the beginning of the conference. Details will be made available to the authors of accepted papers.</p>
+<h3>REPRODUCIBILITY</h3>
+<p>The authors of all accepted SIGMOD 2019 papers will have the option to submit their experiments to the Reproducibility Committee in order to obtain a ''Reproducible Label'' when the paper appears in the ACM Digital Library. Authors who want to prove the reproducibility of their results will submit data, code, and scripts, possibly wrapped in a virtual machine. Each paper will be reviewed by one reproducibility reviewer to verify that the experiments and minor variants of the experiments can be reproduced. Should the paper be successfully reproduced, it will be awarded the ''Reproducible Label''. The paper that is the easiest to reproduce successfully will receive the ''Best Reproducible Paper Award'' which comes with a $750 prize. More details and information about tools can be found here: <a style="color: #CC6600; text-decoration: none;" href="http://db-reproducibility.seas.harvard.edu">http://db-reproducibility.seas.harvard.edu</a></p>
+</div>
+</div></div></div> </div>
+<footer>
+</footer>
+</div>
+</div> 
+</div>
+
+</section> 
+<aside id="sidebar" role="complementary" class="sidebar clearfix">
+<div class="region region-sidebar-first">
+<div id="block-menu-menu-welcome" class="block block-menu">
+<h2>General</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/" title="">Homepage</a></li>
+<li class="leaf"><a href="/prog_overview" title="">Program Overview</a></li>
+<li class="last leaf"><a href="https://confer.csail.mit.edu/sigmod2019/schedule#MondayBreakfast" title="">Detailed Program</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-calls-for-submissions" class="block block-menu">
+<h2>PODS Program</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/pods_research_papers" title="">Research Papers</a></li>
+<li class="last leaf"><a href="/sigmod_keynote" title="">Keynote Talk</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-sigmod-program" class="block block-menu">
+<h2>SIGMOD Program</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/sigmod_research_papers_list" title="">Research Papers</a></li>
+<li class="leaf"><a href="/sigmod_keynote" title="">Keynote Talks</a></li>
+<li class="leaf"><a href="/sigmod_demo_papers" title="">Demo Papers</a></li>
+<li class="leaf"><a href="/sigmod_tutorials" title="">Tutorials</a></li>
+<li class="leaf"><a href="/sigmod_industry_list" title="">Industrial Papers</a></li>
+<li class="leaf"><a href="/awards" title="">Awards</a></li>
+<li class="last leaf"><a href="/social_events" title="">Social Events</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-participant-information" class="block block-menu">
+<h2>Participant Information</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="https://www.regonline.com/acmsigmodpods2019" title="">Registration</a></li>
+<li class="leaf"><a href="/conf_venue" title="">Conference Venue</a></li>
+<li class="leaf"><a href="/live_streams" title="">Live Streams</a></li>
+<li class="leaf"><a href="/accommodation" title="">Accommodation</a></li>
+<li class="leaf"><a href="/grants" title="">Student Travel Award</a></li>
+<li class="last leaf"><a href="/node/105" title="">Visa Information</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-organization" class="block block-menu">
+<h2>Organization</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/officers" title="Conference Officers">Conference Officers</a></li>
+<li class="leaf"><a href="/sigmodpc" title="Organization: SIGMOD PC">SIGMOD PC</a></li>
+<li class="leaf"><a href="/podscom" title="">PODS PC</a></li>
+<li class="leaf"><a href="/demo_pc" title="">SIGMOD Demo PC</a></li>
+<li class="leaf"><a href="/industrypc" title="">SIGMOD Industry PC</a></li>
+<li class="leaf"><a href="/sponsor_opportunities" title="">Sponsor Opportunities</a></li>
+<li class="last leaf"><a href="/policy" title="">Anti-Discrimination Policy</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-events" class="block block-menu">
+<h2>Special and Co-located Events</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/aff_wshops" title="">Affiliated Workshops</a></li>
+<li class="leaf"><a href="/student_rs_competition" title="">SIGMOD Student Research Competition</a></li>
+<li class="leaf"><a href="/new_researchers_symp" title="">New Researcher Symposium</a></li>
+<li class="leaf"><a href="http://sigmod19contest.itu.dk" title="">Programming Contest</a></li>
+<li class="leaf"><a href="/Kolaitis_Event" title="">Phokion Kolaitis Special Event</a></li>
+<li class="leaf"><a href="https://amsterdamdatascience.nl/event/ads-drinks-data-ads-meets-sigmod/" title="An event with three talks by data management expert, opened and closed with drinks+snacks, in which the local ADS data science community can mingle with the SIGMOD crowd. Sponsored by ADS partner Elsevier.">Amsterdam Data Science (ADS) Event </a></li>
+<li class="last leaf"><a href="http://ldbcouncil.org/12th-tuc-meeting-sigmod-2019-amsterdam-july-5-2019" title="The Linked Data Benchmark Council (LDBC - ldbcouncil.org)  is a non-profit organization overseeing industry and academic collaboration in graph data management software. Its core mission is the establishment of benchmarks, such as the LDBC Social Network Benchmark and Graphalytics, but recently LDBC is also involved in efforts to create a common Property Graph schema model and query language. These Technical User Community (TUC) meetings allow graph practitioners to present challenges in graph data management, and provide feedback on the work of LDBC task forces, who also present recent updates in these meetings. Attendence is open and free, but registration is required (see link).">LDBC TUC Meeting</a></li>
+</ul> </div>
+</div> 
+<div id="block-block-5" class="block block-block">
+<div class="content">
+
+<p><a class="twitter-timeline" data-height="600" href="https://twitter.com/SIGMOD2019?ref_src=twsrc%5Etfw">Tweets by SIGMOD2019</a> </p>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div>
+</div> 
+</div>
+
+</aside> 
+</div>
+<div class="clear"></div>
+
+<div class="region region-footer">
+<div id="block-block-1" class="block block-block">
+<div class="content">
+<div id="footer">
+<table width="920" border="0"><tbody><tr><td style="display:inline-block; width:300px;"> </td>
+<td style="display:inline-block; width:120px;">
+<a href="http://www.sigmod.org/" target="_blank" style="background-image: none; border: none;"><br /><img src="https://sigmod2018.org/images/acm.jpg" alt="ACM SIGMOD" height="30px" longdesc="The SIGMOD/PODS conference is organized and sponsored by ACM SIGMOD." /></a>
+</td>
+<td style="display:inline-block; width:181px;"><a href="http://www.acm.org"><img src="sites/default/files/imported/images/acm.png" alt="ACM" width="160" height="56" longdesc="http://www.acm.org" /></a></td>
+<td style="display:inline-block; width:105px;">
+<a href="http://www.cwi.nl/" target="_blank" style="background-image: none; border: none;"><br /><img src="sites/default/files/cwi-logo.png" alt="CWI" height="45px" longdesc="CWI handles local conference organization." /></a>
+</td>
+<td style="display:inline-block; width:100px;"><a href="http://sigai.acm.org"><img src="http://sigai.acm.org/static/logo.svg" alt="ACM" width="79" height="56" longdesc="http://sigai.acm.org" /></a></td>
+<td style="display:inline-block; width:80px;"><a href="https://www.sigact.org"><img src="https://www.sigact.org/img/logo-lean.svg" alt="ACM" width="80" height="56" longdesc="https://www.sigact.org" /></a></td>
+</tr></tbody></table></div>
+ </div>
+</div> 
+</div>
+
+</div>
+</body>
+</html>

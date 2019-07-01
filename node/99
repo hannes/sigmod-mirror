@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head>
+<meta charset="utf-8" />
+<link rel="shortlink" href="/node/99" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/sigmod_research_papers_list" />
+<title>SIGMOD 2019: Accepted Research Papers | SIGMOD/PODS 2019</title>
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_Vn_p7xhZmS8yWWx26P0Cc7Tm0GG2K1gLWEoVrhw5xxg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.sigmod2019.org/sites/default/files/css/css_bVQuO11O__rBW1kAInzl3NxQUx7huZU_6kwE-OEktwY.css" media="all" />
+<script type="text/javascript" src="http://www.sigmod2019.org/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="http://www.sigmod2019.org/sites/default/files/js/js_UwO_0RHLq_nsvPwmX_QYU1JLTYOeZOvu0d7mUDYvhvQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"business","theme_token":"q2R2xeApKGcxYGJBju28N2YoVVy3coO-WMsO8L0OriE","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/business\/js\/superfish.js":1,"sites\/all\/themes\/business\/js\/supersubs.js":1,"sites\/all\/themes\/business\/js\/sfmenu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/business\/style.css":1,"sites\/all\/themes\/business\/color\/colors.css":1}}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="/sites/all/themes/business/js/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-99 node-type-page">
+<div id="wrap">
+<header id="header" class="clearfix" role="banner">
+<div>
+<div id="logo">
+<a href="/" title="Home"><img src="http://www.sigmod2019.org/sites/default/files/image_preview5.png" alt="Home" /></a>
+</div>
+<hgroup id="sitename">
+<h2><a href="/" title="Home"></a></h2>
+<p></p>
+</hgroup>
+</div>
+<nav id="navigation" class="clearfix" role="navigation">
+<div id="main-menu">
+<ul class="menu"><li class="first leaf"><a href="/">Home</a></li>
+<li class="leaf"><a href="/grants">SIGMOD 2019 Travel Award</a></li>
+<li class="leaf"><a href="/sigmodcfp">SIGMOD Call For Papers</a></li>
+<li class="leaf"><a href="/podscfp">PODS Call For Papers</a></li>
+<li class="last leaf"><a href="/industrycfp">SIGMOD Industrial Track Call for Papers</a></li>
+</ul> </div>
+</nav>
+</header>
+<div class="region region-header">
+<div id="block-block-3" class="block block-block">
+<div class="content">
+<img src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/photo.jpg" title="picture Creative Commons BY-NC-SA 2.0 licensed, (c) Mike ‘O Sullivan." width="100%" /> </div>
+</div> 
+<div id="block-block-4" class="block block-block">
+<div class="content">
+<div style="text-align:center;color: #485b81;font-weight: bold;"><span style="white-space:nowrap;">ACM SIGMOD/PODS International Conference on Management of Data</span> <span style="margin-left:3em;margin-right:3em;white-space:nowrap;">June 30 - July 5, 2019</span> <span style="white-space:nowrap;">Amsterdam, The Netherlands</span></div> </div>
+</div> 
+</div>
+
+<div id="main">
+<section id="post-content" role="main">
+<h1 class="page-title">SIGMOD 2019: Accepted Research Papers</h1> <div class="region region-content">
+<div id="block-system-main" class="block block-system">
+<div class="content">
+<span property="dc:title" content="SIGMOD 2019: Accepted Research Papers" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+<div class="node node-page node-full">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><ul><li>
+<strong>Optimizing Declarative Graph Queries at Large Scale</strong>
+<p>Qizhen Zhang (University of Pennsylvania); Akash Acharya (University of Pennsylvania); Hongzhi Chen (The Chinese University of Hong Kong); Simran Arora (University of Pennsylvania); Ang Chen (Rice University); Vincent Liu (University of Pennsylvania); Boon Loo (University of Pennsylvania)</p>
+</li>
+<li>
+<strong>JOSIE: Overlap Set Similarity Search for Finding Joinable Tables in Data Lakes</strong>
+<p>Erkang Zhu (University of Toronto); Dong Deng (Inception Institute of Artificial Intelligence); Fatemeh Nargesian (University of Toronto); Renée Miller (Northeastern University)</p>
+</li>
+<li>
+<strong>Going Beyond Provenance: Explaining Query Answers with Pattern-based Counterbalances</strong>
+<p>Zhengjie Miao (Duke University); Qitian Zeng (Illinois Institute of Technology); Boris Glavic (Illinois Institute of Technology); Sudeepa Roy (Duke University)</p>
+</li>
+<li>
+<strong>BriskStream: Scaling Data Stream Processing on Shared-Memory Multicore Architectures</strong>
+<p>Shuhao Zhang (National University of Singapore); Jiong He (Advanced Digital Sciences Center); Amelie Zhou (Shenzhen University); Bingsheng He (National University of Singapore)</p>
+</li>
+<li>
+<strong>Strongly Truthful Interactive Regret Minimization</strong>
+<p>Min Xie (Hong Kong University of Science and Technology); Raymond Chi-Wing Wong (Hong Kong University of Science and Technology); Ashwin Lall (Denison University)</p>
+</li>
+<li>
+<strong>Fast General Distributed Transactions with Opacity</strong>
+<p>Alex Shamis (Microsoft Research); Matthew Renzelmann (Microsoft); Stanko Novakovic (VMware); Georgios Chatzopoulos (EPFL); Aleksandar Dragojevi&amp;#263; (Microsoft Research); Dushyanth Narayanan (Microsoft Research); Miguel Castro (Microsoft Research)</p>
+</li>
+<li>
+<strong>Tuple-oriented Compression for Large-scale Mini-batch Stochastic Gradient Descent</strong>
+<p>Fengan Li (University of Wisconsin, Madison); Lingjiao Chen (University of Wisconsin, Madison); Yijing Zeng (University of Wisconsin, Madison); Arun Kumar (University of California, San Diego); Xi Wu (University of Wisconsin, Madison); Jeffrey Naughton (University of Wisconsin, Madison); Jignesh Patel (University of Wisconsin, Madison)</p>
+</li>
+<li>
+<strong>Border-Collie: A Wait-free, Read-optimal Algorithm for Database Logging on Multicore Hardware</strong>
+<p>Jongbin Kim (Hanyang University); Hyeongwon Jang (Hanyang University); Seohui Son (Hanyang University); Hyuck Han (Dongduk Women's University); Sooyong Kang (Hanyang University); Hyungsoo Jung (Hanyang University)</p>
+</li>
+<li>
+<strong>CATAPULT: Data-driven Selection of Canned Patterns for Efficient Visual Graph Query Formulation</strong>
+<p>Kai Huang (Fudan University); Huey Chua (Nanyang Technological University); Sourav Bhowmick (Nanyang Technological University); Byron Choi (Hong Kong Baptist University); Shuigeng Zhou (Fudan University)</p>
+</li>
+<li>
+<strong>DeepBase: Deep Inspection of Neural Networks</strong>
+<p>Thibault Sellam (Columbia University); Kevin Lin (Columbia University); Ian Huang (Columbia University); Michelle Yang (University of California, Berkeley); Carl Vondrick (Columbia University); Eugene Wu (Columbia University)</p>
+</li>
+<li>
+<strong>Verifying Text Summaries of Relational Data Sets</strong>
+<p>Saehan Jo (Cornell University); Immanuel Trummer (Cornell University); Weicheng Yu (Cornell University); Xuezhi Wang (Google Research); Cong Yu (Google Research); Daniel Liu (Cornell University); Niyati Mehta (Cornell University)</p>
+</li>
+<li>
+<strong>Efficiently Searching In-Memory Sorted Arrays: Revenge of the Interpolation Search?</strong>
+<p>Peter Van Sandt (University of Wisconsin, Madison); Yannis Chronis (University of Wisconsin, Madison); Jignesh Patel (University of Wisconsin, Madison)</p>
+</li>
+<li>
+<strong>Experimental Analysis of Streaming Algorithms for Graph Partitioning</strong>
+<p>Anil Pacaci (University of Waterloo); Tamer Özsu (University of Waterloo)</p>
+</li>
+<li>
+<strong>BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees</strong>
+<p>Yongjoo Park (University of Michigan); Jingyi Qing (University of Michigan); Xiaoyang Shen (University of Michigan); Barzan Mozafari (University of Michigan)</p>
+</li>
+<li>
+ <strong>Towards Model-based Pricing for Machine Learning in a Data Marketplace</strong>
+<p>Lingjiao Chen (University of Wisconsin, Madison); Paraschos Koutris (University of Wisconsin, Madison); Arun Kumar (University of California, San Diego)</p>
+</li>
+<li>
+<strong>Designing Fair Ranking Schemes</strong>
+<p>Abolfazl Asudeh (University of Michigan); H. V. Jagadish (University of Michigan); Julia Stoyanovich (New York University); Gautam Das (University of Texas at Arlington)</p>
+</li>
+<li>
+<strong>RRR: Rank-Regret Representative</strong>
+<p>Abolfazl Asudeh (University of Michigan); Azade Nazi (Google AI); Nan Zhang (Pennsylvania State University); Gautam Das (University of Texas at Arlington); H. V. Jagadish (University of Michigan)</p>
+</li>
+<li>
+<strong>Designing Distributed Tree-based Index Structures for Fast RDMA-capable Networks</strong>
+<p>Tobias Ziegler (TU Darmstadt); Sumukha Tumkur Vani (Brown University); Carsten Binnig (TU Darmstadt); Rodrigo Fonseca (Brown University); Tim Kraska (MIT)</p>
+</li>
+<li>
+<strong>Unboundedness and Efficiency of Truss Maintenance in Evolving Graphs</strong>
+<p>Yikai Zhang (Chinese University of Hong Kong); Jeffrey Yu (Chinese University of Hong Kong)</p>
+</li>
+<li>
+<strong>vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases</strong>
+<p>Cheng Xu (Hong Kong Baptist University); Ce Zhang (Hong Kong Baptist University); Jianliang Xu (Hong Kong Baptist University)</p>
+</li>
+<li>
+<strong>Hypothetical Reasoning via Provenance Abstraction</strong>
+<p>Daniel Deutch (Tel Aviv University); Yuval Moskovitch (Tel Aviv University); Noam Rinetzky (Tel Aviv University)</p>
+</li>
+<li>
+<strong>An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning</strong>
+<p>Ji Zhang (Huazhong University of Science and Technology); Yu Liu (Huazhong University of Science and Technology); Ke Zhou (Huazhong University of Science and Technology); Guoliang Li (Tsinghua University); Zhili Xiao (Tencent Inc.); Bin Cheng (Tencent Inc.); Jiashu Xing (Tencent Inc.); Yangtao Wang (Huazhong University of Science and Technology); Tianheng Cheng (Huazhong University of Science and Technology); Li Liu (Huazhong University of Science and Technology); Minwei Ran (Huazhong University of Science and Technology); Zekang Li (Huazhong University of Science and Technology)</p>
+</li>
+<li>
+<strong>CECI: Compact Embedding Cluster Index for Scalable Subgraph Matching</strong>
+<p>Bibek Bhattarai (George Washington University); Hang Liu (University of Massachusetts Lowell); H. Howie Huang (George Washington University)</p>
+</li>
+<li>
+<strong>Exact Cardinality Query Optimization with Bounded Execution Cost</strong>
+<p>Immanuel Trummer (Cornell University)</p>
+</li>
+<li>
+<strong>SkinnerDB: Regret-Bounded Query Evaluation via Reinforcement Learning</strong>
+<p>Immanuel Trummer (Cornell University); Junxiong Wang (Cornell University); Deepak Maram (Cornell University); Samuel Moseley (Cornell University); Saehan Jo (Cornell University); Joseph Antonakakis (Cornell University)</p>
+</li>
+<li>
+<strong>A Holistic Approach for Query Evaluation andResult Vocalization in Voice-Based OLAP</strong>
+<p>Immanuel Trummer (Cornell University); Yicheng Wang (Cornell University); Saketh Mahankali (Cornell University)</p>
+</li>
+<li>
+<strong>Concurrent Prefix Recovery: Performing CPR on a Database</strong>
+<p>Guna Prasaad (University of Washington); Badrish Chandramouli (Microsoft Research); Donald Kossmann (Microsoft Research)</p>
+</li>
+<li>
+<strong>Ariadne: Online Provenance for Big Graph Analytics</strong>
+<p>Vicky Papavasileiou (University of California, San Diego); Ken Yocum (Intuit,Inc. &amp; University of California, San Diego); Alin Deutsch (University of California, San Diego)</p>
+</li>
+<li>
+<strong>APEx: Accuracy-Aware Differentially Private Data Exploration</strong>
+<p>Chang Ge (University of Waterloo); Xi He (University of Waterloo); Ihab Ilyas (University of Waterloo); Ashwin Machanavajjhala (Duke University)</p>
+</li>
+<li>
+<strong>MNC: Structure-Exploiting Sparsity Estimation for Matrix Expressions</strong>
+<p>Johanna Sommer (IBM Germany); Matthias Boehm (Graz University of Technology); Alexandre Evfimievski (IBM Almaden Research Center); Berthold Reinwald (IBM Almaden Research Center); Peter Haas (University of Massachusetts Amherst)</p>
+</li>
+<li>
+<strong>Uni-Detect: A Unified Approach to Automated Error Detection in Tables</strong>
+<p>Pei Wang (Simon Fraser University); Yeye He (Microsoft Research)</p>
+</li>
+<li>
+<strong>Active Sparse Mobile Crowd Sensing Based on Matrix Completion</strong>
+<p>Kun Xie (Hunan University); Xiaocan Li (Hunan University); Xin Wang (Stony Brook University); Gaogang Xie (Institute of Computing Technology &amp; Chinese Academy of Sciences); Jigang Wen (Institute of Computing Technology &amp; Chinese Academy of Sciences); Dafang Zhang (Hunan University)</p>
+</li>
+<li>
+<strong>Top-k Queries over Digital Traces</strong>
+<p>Yifan Li (York University); Xiaohui Yu (York University); Nick Koudas (University of Toronto)</p>
+</li>
+<li>
+<strong>Autocompletion for Prefix-Abbreviated Input</strong>
+<p>Sheng Hu (Nagoya University &amp; Kyoto University); Chuan Xiao (Nagoya University &amp; Osaka University); Jianbin Qin (Shenzhen University); Yoshiharu Ishikawa (Nagoya University); Qiang Ma (Kyoto University)</p>
+</li>
+<li>
+<strong>Cache-oblivious High-performance Similarity Join</strong>
+<p>Martin Perdacher (University of Vienna); Claudia Plant (University of Vienna); Christian Böhm (Ludwig-Maximilians-Universität)</p>
+</li>
+<li>
+<strong>FITing-Tree: A Data-aware Index Structure</strong>
+<p>Alex Galakatos (Brown University); Michael Markovitch (Brown University); Carsten Binnig (TU Darmstadt); Rodrigo Fonseca (Brown University); Tim Kraska (MIT)</p>
+</li>
+<li>
+<strong>Designing Succinct Secondary Indexing Mechanism by Exploiting Column Correlations</strong>
+<p>Yingjun Wu (IBM Almaden Research Center); Jia Yu (Arizona State University); Yuanyuan Tian (IBM Almaden Research Center); Richard Sidle (IBM); Ronald Barber (IBM Almaden Research Center)</p>
+</li>
+<li>
+<strong>Event Trend Aggregation Under Rich Event Matching Semantics</strong>
+<p>Olga Poppe (Microsoft Gray Systems Lab); Chuan Lei (IBM Almaden Research Center); Elke Rundensteiner (Worcester Polytechnic Institute); David Maier (Portland State University)</p>
+</li>
+<li>
+<strong>Democratizing Data Science through Interactive Curation of ML Pipelines</strong>
+<p>Zeyuan Shang (MIT); Emanuel Zgraggen (MIT); Benedetto Buratti (Brown University); Ferdinand Kossmann (MIT); Philipp Eichmann (Brown University); Yeounoh Chung (Brown University); Carsten Binnig (TU Darmstadt); Eli Upfal (Brown University); Tim Kraska (MIT)</p>
+</li>
+<li>
+<strong>Visual Road: A Video Data Management Benchmark</strong>
+<p>Brandon Haynes (University of Washington); Amrita Mazumdar (University of Washington); Magdalena Balazinska (University of Washington); Luis Ceze (University of Washington); Alvin Cheung (University of Washington)</p>
+</li>
+<li>
+<strong>Raha: A Configuration-Free Error Detection System</strong>
+<p>Mohammad Mahdavi (TU Berlin); Ziawasch Abedjan (TU Berlin); Raul Castro Fernandez (MIT); Samuel Madden (MIT); Mourad Ouzzani (QCRI, HBKU); Michael Stonebraker (MIT); Nan Tang (QCRI, HBKU)</p>
+</li>
+<li>
+<strong>An Efficient Index for RDF Query Containment</strong>
+<p>Theofilos Mailis (Athena Research Centre &amp; University of Athens); Yannis Kotidis (Athens University of Economics and Business); Vaggelis Nikolopoulos (University of Athens); Evgeny Kharlamov (University of Oslo &amp; Bosch Center for AI); Ian Horrocks (University of Oxford); Yannis Ioannidis (Athena Research Centre &amp; University of Athens)</p>
+</li>
+<li>
+<strong>DistME: A Fast and Elastic Distributed Matrix Computation Engine using GPUs</strong>
+<p>Donghyoung Han (Daegu Gyeongbuk Institute of Science &amp; Technology (DGIST)); Yoon-Min Nam (Daegu Gyeongbuk Institute of Science &amp; Technology (DGIST)); Jihye Lee (Daegu Gyeongbuk Institute of Science &amp; Technology (DGIST)); Kyongseok Park (Korea Institute of Science and Technology Information (KISTI)); Hyunwoo Kim (Korea Institute of Science and Technology Information (KISTI)); Min-Soo Kim (Daegu Gyeongbuk Institute of Science &amp; Technology (DGIST))</p>
+</li>
+<li>
+<strong>Explaining Wrong Queries Using Small Examples</strong>
+<p>Zhengjie Miao (Duke University); Sudeepa Roy (Duke University); Jun Yang (Duke University)</p>
+</li>
+<li>
+<strong>Visual Segmentation for Information Extraction from Heterogeneous Visually Rich Documents</strong>
+<p>Ritesh Sarkhel (Ohio State University); Arnab Nandi (Ohio State University)</p>
+</li>
+<li>
+<strong>Elasticutor: Rapid Elasticity for Realtime Stateful Stream Processing</strong>
+<p>Li Wang (Yitu Technology); Tom Z. J. Fu (Advanced Digital Sciences Center); Richard T. B. Ma (National University of Singapore); Marianne Winslett (University of Illinois Urbana-Champaign); Zhenjie Zhang (Yitu Technology)</p>
+</li>
+<li>
+<strong>Real-Time Multi-Pattern Detection over Event Streams</strong>
+<p>Ilya Kolchinsky (Technion); Assaf Schuster (Technion)</p>
+</li>
+<li>
+<strong>Hyperion: Building the Largest In-memory Search Tree</strong>
+<p>Markus Mäsker (Johannes Gutenberg University Mainz); Tim Süß (University of Applied Science Fulda); Lars Nagel (Loughborough University); Lingfang Zeng (Huazhong University of Science and Technology); André Brinkmann (Johannes Gutenberg University Mainz)</p>
+</li>
+<li>
+<strong>AI Meets AI: Leveraging Query Executions to Improve Index Recommendations</strong>
+<p>Bailu Ding (Microsoft Research); Sudipto Das (Microsoft Research); Ryan Marcus (Brandeis University); Wentao Wu (Microsoft Research); Surajit Chaudhuri (Microsoft Research); Vivek Narasayya (Microsoft Research)</p>
+</li>
+<li>
+<strong>GPU-based Graph Traversal on Compressed Graphs</strong>
+<p>Mo Sha (National University of Singapore); Yuchen Li (Singapore Management University); Kian-Lee Tan (National University of Singapore)</p>
+</li>
+<li>
+<strong>Mining Precision Interfaces From Query Logs</strong>
+<p>Qianrui Zhang (Tsinghua University); Haoci Zhang (Columbia University); Thibault Sellam (Columbia University); Eugene Wu (Columbia University)</p>
+</li>
+<li>
+<strong>DBEst: Revisiting Approximate Query Processing Engines with Machine Learning Models</strong>
+<p>Qingzhi Ma (University of Warwick); Peter Triantafillou (University of Warwick)</p>
+</li>
+<li>
+<strong>PRSim: Sublinear Time SimRank Computation on Large Power-Law Graphs</strong>
+<p>Zhewei Wei (Renmin University of China); Xiaodong He (4Paradigm Inc.); Xiaokui Xiao (National University of Singapore); Sibo Wang (The Chinese University of Hong Kong); Yu Liu (Peking University); Xiaoyong Du (Renmin University of China); Ji-Rong Wen (Renmin University of China)</p>
+</li>
+<li>
+<strong>Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations</strong>
+<p>Supun Nakandala (University of California, San Diego); Arun Kumar (University of California, San Diego); Yannis Papakonstantinou (University of California, San Diego)</p>
+</li>
+<li>
+<strong>Fractal: A General-Purpose Graph Pattern Mining System</strong>
+<p>Vinicius Dias (Universidade Federal de Minas Gerais); Carlos Teixeira (Universidade Federal de Minas Gerais); Dorgival Guedes (Universidade Federal de Minas Gerais); Wagner Meira (Universidade Federal de Minas Gerais); Srinivasan Parthasarathy (Ohio State University)</p>
+</li>
+<li>
+<strong>Anti-Freeze for Large and Complex Spreadsheets: Asynchronous Formula Computation</strong>
+<p>Mangesh Bendre (University of Illinois Urbana-Champaign); Tana Wattanawaroon (University of Illinois Urbana-Champaign); Kelly Mack (University of Illinois Urbana-Champaign); Kevin Chang (University of Illinois Urbana-Champaign); Aditya Parameswaran (University of Illinois Urbana-Champaign)</p>
+</li>
+<li>
+<strong>RaSQL: Greater Power and Performance for Big Data Analytics with Recursive-aggregate-SQL on Spark</strong>
+<p>Jiaqi Gu (University of California, Los Angeles); Yugo Watanabe (University of California, Los Angeles); William Mazza (University of Naples Federico II); Alexander Shkapsky (Workday, Inc.); Mohan Yang (Google); Ling Ding (University of California, Los Angeles); Carlo Zaniolo (University of California, Los Angeles)</p>
+</li>
+<li>
+<strong>Scaling Distance Labeling on Small-World Networks</strong>
+<p>Wentao Li (University of Technology Sydney); Miao Qiao (University of Auckland); Lu Qin (University of Technology Sydney); Ying Zhang (University of Technology Sydney); Lijun Chang (University of Sydney); Xuemin Lin (University of New South Wales)</p>
+</li>
+<li>
+<strong>Enabling and Optimizing Non-linear Feature Interactions in Factorized Linear Algebra</strong>
+<p>Side Li (University of California, San Diego); Lingjiao Chen (University of Wisconsin, Madison); Arun Kumar (University of California, San Diego)</p>
+</li>
+<li>
+<strong>Maximizing Welfare in Social Networks under A Utility Driven Influence Diffusion model</strong>
+<p>Prithu Banerjee (University of British Columbia); Wei Chen (Microsoft Research); Laks Lakshmanan (University of British Columbia)</p>
+</li>
+<li>
+<strong>Efficient Subgraph Matching: Harmonizing Dynamic Programming, Adaptive Matching Order, and Failing Set Together</strong>
+<p>Myoungji Han (Seoul National University); Hyunjoon Kim (Seoul National University); Geonmo Gu (Seoul National University); Kunsoo Park (Seoul National University); Wook-Shin Han (Pohang University of Science and Technology (POSTECH))</p>
+</li>
+<li>
+<strong>Efficient Approximation Algorithms for Adaptive Seed Minimization</strong>
+<p>Jing Tang (National University of Singapore); Keke Huang (Nanyang Technological University); Xiaokui Xiao (National University of Singapore); Laks Lakshmanan (University of British Columbia); Xueyan Tang (Nanyang Technological University); Aixin Sun (Nanyang Technological University); Andrew Lim (National University of Singapore)</p>
+</li>
+<li>
+<strong>Efficiently Answering Regular Simple Path Queries on Large Labeled Networks</strong>
+<p>Sarisht Wadhwa (IIT Delhi); Anagh Prasad (IIT Delhi); Sayan Ranu (IIT Delhi); Amitabha Bagchi (IIT Delhi); Srikanta Bedathur (IIT Delhi)</p>
+</li>
+<li>
+<strong>Iterative Query Processing based on Unified Optimization Techniques</strong>
+<p>Kisung Park (Kyung Hee University); Hojin Seo (Kyung Hee University); Mostofa Rasel (Kyung Hee University); Young-Koo Lee (Kyung Hee University); Chanho Jeong (SAP Labs Korea); Sung Yeol Lee (SAP Labs Korea); Chungmin Lee (SAP Labs Korea); Dong-Hun Lee (SAP Labs Korea)</p>
+</li>
+<li>
+<strong>Blurring the Lines between Blockchains and Database Systems: the Case of Hyperledger Fabric</strong>
+<p>Ankur Sharma (Saarland University); Felix Schuhknecht (Saarland University); Divya Agrawal (Saarland University); Jens Dittrich (Saarland University)</p>
+</li>
+<li>
+<strong>AStream: Ad-hoc Shared Stream Processing</strong>
+<p>Jeyhun Karimov (DFKI GmbH); Tilmann Rabl (DFKI GmbH &amp; TU Berlin); Volker Markl (DFKI GmbH &amp; TU Berlin)</p>
+</li>
+<li>
+<strong>Interactive Graph Search</strong>
+<p>Yufei Tao (Chinese University of Hong Kong); Yuanbing Li (Tsinghua University); Guoliang Li (Tsinghua University)</p>
+</li>
+<li>
+<strong>Efficient Estimation of Heat Kernel PageRank for Local Clustering</strong>
+<p>Renchi Yang (Nanyang Technological University); Xiaokui Xiao (National University of Singapore); Zhewei Wei (Renmin University of China); Sourav Bhowmick (Nanyang Technological University); Jun Zhao (Nanyang Technological University); Rong-Hua Li (Beijing Institute of Technology)</p>
+</li>
+<li>
+<strong>Uncertainty Annotated Databases - A Lightweight Approach for Approximating Certain Answers</strong>
+<p>Su Feng (Illinois Institute of Technology); Aaron Huber (University at Buffalo); Boris Glavic (Illinois Institute of Technology); Oliver Kennedy (University at Buffalo)</p>
+</li>
+<li>
+<strong>HoloDetect: Few-Shot Learning for Error Detection</strong>
+<p>Alireza Heidari (University of Waterloo); Joshua McGrath (University of Wisconsin, Madison); Ihab Ilyas (University of Waterloo); Theodoros Rekatsinas (University of Wisconsin, Madison)</p>
+</li>
+<li>
+<strong>Towards Scaling Blockchain Systems via Sharding</strong>
+<p>Hung Dang (National University of Singapore); Tien Tuan Anh Dinh (National University of Singapore); Dumitrel Loghin (National University of Singapore); Ee-Chien Chang (National University of Singapore); Qian Lin (National University of Singapore); Beng Chin Ooi (National University of Singapore)</p>
+</li>
+<li>
+<strong>A Layered Aggregate Engine for Analytics Workloads</strong>
+<p>Maximilian Schleich (University of Oxford); Dan Olteanu (University of Oxford); Mahmoud Abo Khamis (RelationalAI); Hung Ngo (RelationalAI); XuanLong Nguyen (University of Michigan)</p>
+</li>
+<li>
+<strong>Answering Why-questions by Exemplars in Attributed Graphs</strong>
+<p>Mohammad Hossein Namaki (Washington State University); Qi Song (Washington State University); Yinghui Wu (Washington State University); Shengqi Yang (WeWork Technology)</p>
+</li>
+<li>
+<strong>Answering Multi-Dimensional Analytical Queries under Local Differential Privacy</strong>
+<p>Tianhao Wang (Purdue University); Bolin Ding (Alibaba Group); Jingren Zhou (Alibaba Group); Cheng Hong (Alibaba Group); Zhicong Huang (Alibaba Group); Ninghui Li (Purdue University); Somesh Jha (University of Wisconsin, Madison)</p>
+</li>
+<li>
+<strong>A Scalable Index for Top-k Subtree Similarity Queries</strong>
+<p>Daniel Kocher (University of Salzburg); Nikolaus Augsten (University of Salzburg)</p>
+</li>
+<li>
+<strong>Distance-generalized Core Decomposition</strong>
+<p>Francesco Bonchi (ISI Foundation &amp; Eurecat); Arijit Khan (Nanyang Technological University); Lorenzo Severini (ISI Foundation)</p>
+</li>
+<li>
+<strong>Dissecting the Performance of Strongly-Consistent Replication Protocols</strong>
+<p>Ailidani Ailijiang (Microsoft); Aleksey Charapko (University at Buffalo, SUNY); Murat Demirbas (University at Buffalo, SUNY)</p>
+</li>
+<li>
+<strong>Pessimistic Cardinality Estimation</strong>
+<p>Walter Cai (University of Washington); Magdalena Balazinska (University of Washington); Dan Suciu (University of Washington)</p>
+</li>
+<li>
+<strong>Towards Scalable Hybrid Stores: Constraint-Based Rewriting to the Rescue</strong>
+<p>Rana Alotaibi (University of California, San Diego); Damian Bursztyn (Thales); Alin Deutsch (University of California, San Diego); Ioana Manolescu (Inria &amp; Ecole polytechnique); Stamatis Zampetakis (Orchestra Networks)</p>
+</li>
+<li>
+<strong>FishStore: Faster Ingestion with Subset Hashing</strong>
+<p>Dong Xie (University of Utah); Badrish Chandramouli (Microsoft Research); Yinan Li (Microsoft Research); Donald Kossmann (Microsoft Research)</p>
+</li>
+<li>
+<strong>Approximate Distinct Counts for Billions of Datasets</strong>
+<p>Daniel Ting (Tableau Software)</p>
+</li>
+<li>
+<strong>Speculative Distributed CSV Data Parsing for Big Data Analytics</strong>
+<p>Chang Ge (University of Waterloo); Yinan Li (Microsoft Research); Eric Eilebrecht (Microsoft Research); Badrish Chandramouli (Microsoft Research); Donald Kossmann (Microsoft Research)</p>
+</li>
+<li>
+<strong>Progressive Deep Web Crawling Through Keyword Queries For Data Enrichment</strong>
+<p>Pei Wang (Simon Fraser University); Ryan Shea (Simon Fraser University); Jiannan Wang (Simon Fraser University); Eugene Wu (Columbia University)</p>
+</li>
+<li>
+<strong>Anytime Approximation in Probabilistic Databases via Scaled Dissociations</strong>
+<p>Maarten Van den Heuvel (University of Antwerp); Peter Ivanov (Northeastern University); Wolfgang Gatterbauer (Northeastern University); Floris Geerts (University of Antwerp); Martin Theobald (University of Luxembourg)</p>
+</li>
+<li>
+<strong>Interventional Fairness : Causal Database Repair for Algorithmic Fairness</strong>
+<p>Babak Salimi (University of Washington); Luke Rodriguez (University of Washington); Bill Howe (University of Washington); Dan Suciu (University of Washington)</p>
+</li>
+<li>
+<strong>MIFO: A Query-Semantic Aware Resource Allocation Policy</strong>
+<p>Prajakta Kalmegh (Duke University); Shivnath Babu (Unravel Data Systems)</p>
+</li>
+<li>
+<strong>The Log-Structured Merge-Bush &amp; the Wacky Continuum</strong>
+<p>Niv Dayan (Harvard University); Stratos Idreos (Harvard University)</p>
+</li>
+<li>
+<strong>iQCAR: inter-Query Contention Analyzer for Data Analytics Frameworks</strong>
+<p>Prajakta Kalmegh (Duke University); Shivnath Babu (Unravel Data Systems); Sudeepa Roy (Duke University)</p>
+</li>
+</ul></div></div></div> </div>
+<footer>
+</footer>
+</div>
+</div> 
+</div>
+
+</section> 
+<aside id="sidebar" role="complementary" class="sidebar clearfix">
+<div class="region region-sidebar-first">
+<div id="block-menu-menu-welcome" class="block block-menu">
+<h2>General</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/" title="">Homepage</a></li>
+<li class="leaf"><a href="/prog_overview" title="">Program Overview</a></li>
+<li class="last leaf"><a href="https://confer.csail.mit.edu/sigmod2019/schedule#MondayBreakfast" title="">Detailed Program</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-calls-for-submissions" class="block block-menu">
+<h2>PODS Program</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/pods_research_papers" title="">Research Papers</a></li>
+<li class="last leaf"><a href="/sigmod_keynote" title="">Keynote Talk</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-sigmod-program" class="block block-menu">
+<h2>SIGMOD Program</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf active-trail"><a href="/sigmod_research_papers_list" title="" class="active-trail active">Research Papers</a></li>
+<li class="leaf"><a href="/sigmod_keynote" title="">Keynote Talks</a></li>
+<li class="leaf"><a href="/sigmod_demo_papers" title="">Demo Papers</a></li>
+<li class="leaf"><a href="/sigmod_tutorials" title="">Tutorials</a></li>
+<li class="leaf"><a href="/sigmod_industry_list" title="">Industrial Papers</a></li>
+<li class="leaf"><a href="/awards" title="">Awards</a></li>
+<li class="last leaf"><a href="/social_events" title="">Social Events</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-participant-information" class="block block-menu">
+<h2>Participant Information</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="https://www.regonline.com/acmsigmodpods2019" title="">Registration</a></li>
+<li class="leaf"><a href="/conf_venue" title="">Conference Venue</a></li>
+<li class="leaf"><a href="/live_streams" title="">Live Streams</a></li>
+<li class="leaf"><a href="/accommodation" title="">Accommodation</a></li>
+<li class="leaf"><a href="/grants" title="">Student Travel Award</a></li>
+<li class="last leaf"><a href="/node/105" title="">Visa Information</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-organization" class="block block-menu">
+<h2>Organization</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/officers" title="Conference Officers">Conference Officers</a></li>
+<li class="leaf"><a href="/sigmodpc" title="Organization: SIGMOD PC">SIGMOD PC</a></li>
+<li class="leaf"><a href="/podscom" title="">PODS PC</a></li>
+<li class="leaf"><a href="/demo_pc" title="">SIGMOD Demo PC</a></li>
+<li class="leaf"><a href="/industrypc" title="">SIGMOD Industry PC</a></li>
+<li class="leaf"><a href="/sponsor_opportunities" title="">Sponsor Opportunities</a></li>
+<li class="last leaf"><a href="/policy" title="">Anti-Discrimination Policy</a></li>
+</ul> </div>
+</div> 
+<div id="block-menu-menu-events" class="block block-menu">
+<h2>Special and Co-located Events</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/aff_wshops" title="">Affiliated Workshops</a></li>
+<li class="leaf"><a href="/student_rs_competition" title="">SIGMOD Student Research Competition</a></li>
+<li class="leaf"><a href="/new_researchers_symp" title="">New Researcher Symposium</a></li>
+<li class="leaf"><a href="http://sigmod19contest.itu.dk" title="">Programming Contest</a></li>
+<li class="leaf"><a href="/Kolaitis_Event" title="">Phokion Kolaitis Special Event</a></li>
+<li class="leaf"><a href="https://amsterdamdatascience.nl/event/ads-drinks-data-ads-meets-sigmod/" title="An event with three talks by data management expert, opened and closed with drinks+snacks, in which the local ADS data science community can mingle with the SIGMOD crowd. Sponsored by ADS partner Elsevier.">Amsterdam Data Science (ADS) Event </a></li>
+<li class="last leaf"><a href="http://ldbcouncil.org/12th-tuc-meeting-sigmod-2019-amsterdam-july-5-2019" title="The Linked Data Benchmark Council (LDBC - ldbcouncil.org)  is a non-profit organization overseeing industry and academic collaboration in graph data management software. Its core mission is the establishment of benchmarks, such as the LDBC Social Network Benchmark and Graphalytics, but recently LDBC is also involved in efforts to create a common Property Graph schema model and query language. These Technical User Community (TUC) meetings allow graph practitioners to present challenges in graph data management, and provide feedback on the work of LDBC task forces, who also present recent updates in these meetings. Attendence is open and free, but registration is required (see link).">LDBC TUC Meeting</a></li>
+</ul> </div>
+</div> 
+<div id="block-block-5" class="block block-block">
+<div class="content">
+
+<p><a class="twitter-timeline" data-height="600" href="https://twitter.com/SIGMOD2019?ref_src=twsrc%5Etfw">Tweets by SIGMOD2019</a> </p>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div>
+</div> 
+</div>
+
+</aside> 
+</div>
+<div class="clear"></div>
+
+<div class="region region-footer">
+<div id="block-block-1" class="block block-block">
+<div class="content">
+<div id="footer">
+<table width="920" border="0"><tbody><tr><td style="display:inline-block; width:300px;"> </td>
+<td style="display:inline-block; width:120px;">
+<a href="http://www.sigmod.org/" target="_blank" style="background-image: none; border: none;"><br /><img src="https://sigmod2018.org/images/acm.jpg" alt="ACM SIGMOD" height="30px" longdesc="The SIGMOD/PODS conference is organized and sponsored by ACM SIGMOD." /></a>
+</td>
+<td style="display:inline-block; width:181px;"><a href="http://www.acm.org"><img src="sites/default/files/imported/images/acm.png" alt="ACM" width="160" height="56" longdesc="http://www.acm.org" /></a></td>
+<td style="display:inline-block; width:105px;">
+<a href="http://www.cwi.nl/" target="_blank" style="background-image: none; border: none;"><br /><img src="sites/default/files/cwi-logo.png" alt="CWI" height="45px" longdesc="CWI handles local conference organization." /></a>
+</td>
+<td style="display:inline-block; width:100px;"><a href="http://sigai.acm.org"><img src="http://sigai.acm.org/static/logo.svg" alt="ACM" width="79" height="56" longdesc="http://sigai.acm.org" /></a></td>
+<td style="display:inline-block; width:80px;"><a href="https://www.sigact.org"><img src="https://www.sigact.org/img/logo-lean.svg" alt="ACM" width="80" height="56" longdesc="https://www.sigact.org" /></a></td>
+</tr></tbody></table></div>
+ </div>
+</div> 
+</div>
+
+</div>
+</body>
+</html>
