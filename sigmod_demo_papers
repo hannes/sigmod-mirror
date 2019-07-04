@@ -44,7 +44,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <div class="region region-header">
 <div id="block-block-3" class="block block-block">
 <div class="content">
-<img src="https://sigmodconf.hosting.acm.org/sigmod2019drupal/sites/default/files/photo.jpg" title="picture Creative Commons BY-NC-SA 2.0 licensed, (c) Mike ‘O Sullivan." width="100%" /> </div>
+<img src="/misc/photo.jpg" title="picture Creative Commons BY-NC-SA 2.0 licensed, (c) Mike ‘O Sullivan." width="100%" /> </div>
 </div> 
 <div id="block-block-4" class="block block-block">
 <div class="content">
